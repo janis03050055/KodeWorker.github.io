@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Shin-Fu Wu"
-  avatar           : "/assets/image/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I enjoy reading/writing and learning new skills!"
   location         : "Hsinchu, Taiwan"
   email            : "fxp61005@gmail.com"
