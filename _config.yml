@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en"
-title                    : "My Post University Life"
+locale                   : "zh-TW"
+title                    : "我的後大學時代"
 title_separator          : "-"
-name                     : "Shin-Fu Wu"
-description              : "This blog is the record of my life after receiving my master's degree. Mostly, it's about me, holding my diploma, crying alone ..."
+name                     : "吳信夫"
+description              : "記錄著碩士畢業後的生活點滴，大部分是關於我抱著學位證書、躲在牆角痛哭..."
 url                      : "https://KodeWorker.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "KodeWorker/KodeWorker.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,10 +82,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shin-Fu Wu"
+  name             : "吳信夫"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I enjoy reading/writing and learning new skills!"
-  location         : "Hsinchu, Taiwan"
+  bio              : "熱愛閱讀、寫作、學習新技能！"
+  location         : "新竹, 台灣"
   email            : "fxp61005@gmail.com"
   uri              :
   bitbucket        :
