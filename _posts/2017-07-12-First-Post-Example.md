@@ -10,4 +10,4 @@ tags:
 ---
 
 Hello, World!
-Is that it?
+哈囉，世界！
