@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /categories/
-title: "Posts by Category"
+title: "依類別編排"
 author_profile: true
 ---
 
