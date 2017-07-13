@@ -44,21 +44,19 @@ tags:
 
 所以改好fork下來的repository名稱，如果你要作為Project裝用網頁就checkout一個新的branch，名稱為`gh-pages`。
 接著將`Gemfile`這個檔案內容改成如下所示：
-
 {% highlight ruby %}
-source "https://rubygems.org"
+    source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+    gem "github-pages", group: :jekyll_plugins
 
-group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed"
-  gem "jemoji"
-end
+    group :jekyll_plugins do
+      gem "jekyll-paginate"
+      gem "jekyll-sitemap"
+      gem "jekyll-gist"
+      gem "jekyll-feed"
+      gem "jemoji"
+    end
 {% endhighlight %}
-
 接著移除掉不相干的檔案，以免以後clone網站下來要花個十年半載，要刪除的檔案有：`.editorconfig`, `.gitattributes`, `.github`, `/docs`, `/test`, `CHANGELOG.md`, `minimal-mistakes-jekyll.gemspec`, `README.md`,`screenshot-layouts.png`, `screenshot-layouts.png`。
 
 ### 基本設定
@@ -70,20 +68,18 @@ end
 - `baseurl: "[專案名稱]"` 如果你的網頁是給專案使用才要填這個，我是直接無視。
 - `repository: "[Github帳號]/[專案名稱]"` 照著填就對啦，你的Github帳號以及fork下來的minimal-mistakes名稱。
 - `comments`底下的`provider: "disqus"`告訴網站要用DISQUS留言板，而`shortname`就是你在[DISQUS網站](https://disqus.com/)上建立的留言板代號。當然還可以做其他留言設定，不過我覺得這樣足矣。但是注意在設定DISQUS留言版的時候，語言選用`English`而不要選`Chinese`，因為我得了一種看簡體字會屎的病。
-
 中間我跳掉一大部分，因為我有點懶得用！接著在`# Social Sharing`這部分，就參考以下代碼：
 {% highlight ruby %}
-social:
-  type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
-  links:
-    - "https://twitter.com/yourTwitter"
-    - "https://facebook.com/yourFacebook"
-    - "https://instagram.com/yourProfile"
-    - "https://www.linkedin.com/in/yourprofile"
-    - "https://plus.google.com/your_profile"
+    social:
+      type:  # Person or Organization (defaults to Person)
+      name:  # If the user or organization name differs from the site's name
+      links:
+        - "https://twitter.com/yourTwitter"
+        - "https://facebook.com/yourFacebook"
+        - "https://instagram.com/yourProfile"
+        - "https://www.linkedin.com/in/yourprofile"
+        - "https://plus.google.com/your_profile"
 {% endhighlight %}
-
 接著`# Site Author`部分，也就是左側欄位表現自我的部分，交給大家自由發揮。
 而最後值得一提的是`# Defaults`底下的`comments: true`設定成每個post預設可留言。
 
@@ -93,56 +89,56 @@ social:
 現在剩下的就是右上方那一列導覽列沒有設定，這時候點擊的話就會直接404找不到網頁，與其找不到還不如自己寫一份404專用網頁。
 1. 先建立`_pages`資料夾，並在底下建立一份`404.md`的文檔，範例如下。
 {% highlight markdown %}
----
-title: "無此頁面"
-layout: single
-excerpt: "作者腦殘了，沒有準備這個頁面！"
-sitemap: false
-permalink: /404.html
----
+    ---
+    title: "無此頁面"
+    layout: single
+    excerpt: "作者腦殘了，沒有準備這個頁面！"
+    sitemap: false
+    permalink: /404.html
+    ---
 
-這個頁面可能因為作者腦殘沒設定好，或是版本更新年久失修，請聯絡我或是嘗試搜尋一下吧！
+    這個頁面可能因為作者腦殘沒設定好，或是版本更新年久失修，請聯絡我或是嘗試搜尋一下吧！
 
-<script type="text/javascript">
-  var GOOG_FIXURL_LANG = 'en';
-  var GOOG_FIXURL_SITE = '{{ site.url }}'
-</script>
-<script type="text/javascript"
-  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
-</script>
+    <script type="text/javascript">
+      var GOOG_FIXURL_LANG = 'en';
+      var GOOG_FIXURL_SITE = '{{ site.url }}'
+    </script>
+    <script type="text/javascript"
+      src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+    </script>
 {% endhighlight %}
 2. 在`_data`底下有個`navigation.yml`檔案，用來描述上方導覽列的內容及連結關係，範例如下。
 {% highlight markdown %}
-# main links
-main:
-  - title: "網誌"
-    url: /year-archive/
-  - title: "類別"
-    url: /categories/
-  - title: "作品"
-    url: /works/
-  - title: "關於"
-    url: /about/
+    # main links
+    main:
+      - title: "網誌"
+        url: /year-archive/
+      - title: "類別"
+        url: /categories/
+      - title: "作品"
+        url: /works/
+      - title: "關於"
+        url: /about/
 {% endhighlight %}
 3. 接著回到`_pages`底下建立對應的頁面，其中我們以`網誌`為例，建立`year-archive.md`文檔。
-{% highlight text %}
----
-layout: archive
-permalink: /year-archive/
-title: "依年份編排"
-author_profile: false
----
+{% highlight markdown %}
+    ---
+    layout: archive
+    permalink: /year-archive/
+    title: "依年份編排"
+    author_profile: false
+    ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-{% if year != written_year %}
-<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-{% capture written_year %}{{ year }}{% endcapture %}
-{% endif %}
-{% include archive-single.html %}
-{% endfor %}
+    {% include base_path %}
+    {% capture written_year %}'None'{% endcapture %}
+    {% for post in site.posts %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+    {% endif %}
+    {% include archive-single.html %}
+    {% endfor %}
 {% endhighlight %}
 4. 最後終於可以開始寫文章了，每一篇文章的檔案格式為`YEAR-MONTH-DAY-title.md`，而且文檔要存在`_posts`目錄下。
 依照[Jekyll格式](https://jekyllrb.com/docs/posts/)，稍微摸一下應該不難上手。
