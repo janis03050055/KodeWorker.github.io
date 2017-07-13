@@ -112,7 +112,7 @@ permalink: /404.html
 </script>
 {% endhighlight %}
 2. 在`_data`底下有個`navigation.yml`檔案，用來描述上方導覽列的內容及連結關係，範例如下。
-{% highlight markdown linenos%}
+{% highlight text linenos%}
 # main links
 main:
   - title: "網誌"
