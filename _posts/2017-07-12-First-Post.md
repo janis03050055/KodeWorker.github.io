@@ -38,10 +38,10 @@ tags:
 無須多言，馬上趕到minimal-mistakes的[Github](https://github.com/mmistakes/minimal-mistakes)，怒fork到自己的reposiroty底下並clone下來。
 接下來就是比較tricky的地方了，由於腦殘的我一開始沒留心閱讀Github[相關文檔](https://help.github.com/articles/user-organization-and-project-pages/)，害我來來回回搞了一整天。
 主要有兩個重點：
-- 如果要做為個人網頁使用(就像這個網站)，那麼網址為"帳號名稱.github.io"(我是將repository也命名成這樣啦，不過影響應該不大)。重點來了，branch一定要預設為master！
-- 如果要做為Project專用網頁，那麼網址為"帳號名稱.github.io/專案名稱"。branch要預設為gh-pages。
+- 如果要做為個人網頁使用(就像這個網站)，那麼網址為"帳號名稱.github.io"(我是將repository也命名成這樣啦，不過影響應該不大)。重點來了，branch一定要預設為`master`！
+- 如果要做為Project專用網頁，那麼網址為"帳號名稱.github.io/專案名稱"。branch要預設為`gh-pages`。
 
-所以改好fork下來的repository名稱，如果你要作為Project裝用網頁就checkout一個新的branch，名稱為gh-pages。
+所以改好fork下來的repository名稱，如果你要作為Project裝用網頁就checkout一個新的branch，名稱為`gh-pages`。
 接著將`Gemfile`這個檔案內容改成如下所示：
 
 {% highlight ruby %}
@@ -58,7 +58,12 @@ group :jekyll_plugins do
 end
 {% endhighlight %}
 
+接著移除掉不相干的檔案，以免以後clone網站下來要花個十年半載，要刪除的檔案有`.editorconfig`, `.gitattributes`, `.github`, `/docs`, `/test`, `CHANGELOG.md`, `minimal-mistakes-jekyll.gemspec`, `README.md`,`screenshot-layouts.png`, `screenshot-layouts.png`。
+
 ### 基本設定
+
+
+
 ### 基本架構
 
 ## 何去何從
