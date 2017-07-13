@@ -26,7 +26,7 @@ tags:
 ## 整裝備戰
 > 『啊，我要準備什麼？』
 
-首先一定要有[Github](https://github.com/)帳號，雖然想架設在自己的網站伺服器也可以，但是對於一介窮逼的我而言還是架在Github上好了。
+首先一定要有[Github](https://github.com/)帳號，雖然想架設在自己的網站伺服器也可以，但是對於一介窮逼的我而言還是架在Github上好了，當然你還要有一些基礎的Git知識。
 接著為了讓網站有留言版的功能，還要申請個[DISQUS](https://disqus.com/)帳號，讓網頁偽裝成有動態物件的感覺，事實上是委託給別的網站處理。
 接著，準備一顆樂觀的心情，以及一個下午能夠荒廢的時光。
 
@@ -35,7 +35,33 @@ tags:
 也可以看我在這邊自以為的班門弄斧...
 
 ### I Gonna Fork You Up!
+無須多言，馬上趕到minimal-mistakes的[Github](https://github.com/mmistakes/minimal-mistakes)，怒fork到自己的reposiroty底下並clone下來。
+接下來就是比較tricky的地方了，由於腦殘的我一開始沒留心閱讀Github[相關文檔](https://help.github.com/articles/user-organization-and-project-pages/)，害我來來回回搞了一整天。
+主要有兩個重點：
+- 如果要做為個人網頁使用(就像這個網站)，那麼網址為"帳號名稱.github.io"(我是將repository也命名成這樣啦，不過影響應該不大)。重點來了，branch一定要預設為master！
+- 如果要做為Project專用網頁，那麼網址為"帳號名稱.github.io/專案名稱"。branch要預設為gh-pages。
+
+所以改好fork下來的repository名稱，如果你要作為Project裝用網頁就checkout一個新的branch，名稱為gh-pages。
+接著將`Gemfile`這個檔案內容改成如下所示：
+``
+source "https://rubygems.org"
+
+gem "github-pages", group: :jekyll_plugins
+
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jemoji"
+end
+``
+
 ### 基本設定
 ### 基本架構
 
 ## 何去何從
+> 『這是我交付給你的最後一項任務，永續的任務。在這個世界上，要表現快樂、感到快樂，不需要任何理由。接著你就能去愛，去做你想做的事。』 - 深夜加油站遇見蘇格拉底
+
+接下來的任務就是盡可能的快樂，讓閱讀網誌的人快樂，就是持之以恆的紀錄研究與生活的點滴，並且慢慢將這個網頁客製成心目中理想的型態。
+學習是永無止盡的，哪天我把minimal-mistakes摸熟了，再來分享一些客製化的心得吧。
