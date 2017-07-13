@@ -11,7 +11,7 @@ tags:
 - DISQUS
 header:
     image: /assets/images/2017/night-trees-stars.jpg
-    caption: "Night Sky"
+    caption: "Night Sky from https://www.pexels.com/"
 ---
 
 {% include toc title = "目錄" %}
@@ -45,7 +45,7 @@ header:
 - 如果要做為個人網頁使用(就像這個網站)，那麼網址為"帳號名稱.github.io"(我是將repository也命名成這樣啦，不過影響應該不大)。重點來了，branch一定要預設為`master`！
 - 如果要做為Project專用網頁，那麼網址為"帳號名稱.github.io/專案名稱"。branch要預設為`gh-pages`。
 
-所以改好fork下來的repository名稱，如果你要作為Project裝用網頁就checkout一個新的branch，名稱為`gh-pages`。
+改好fork下來的repository名稱，如果你要作為Project裝用網頁就checkout一個新的branch，名稱為`gh-pages`。
 接著將`Gemfile`這個檔案內容改成如下所示：
 {% highlight ruby %}
     source "https://rubygems.org"
