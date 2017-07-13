@@ -43,7 +43,8 @@ tags:
 
 所以改好fork下來的repository名稱，如果你要作為Project裝用網頁就checkout一個新的branch，名稱為gh-pages。
 接著將`Gemfile`這個檔案內容改成如下所示：
-``
+
+{% highlight ruby %}
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
@@ -55,7 +56,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jemoji"
 end
-``
+{% endhighlight %}
 
 ### 基本設定
 ### 基本架構
