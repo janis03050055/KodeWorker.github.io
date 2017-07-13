@@ -17,7 +17,7 @@ tags:
 >『花開成簇，水聚為川，依舊是寂寞，唯有在花與水交映的剎那，花因水而清麗，水因花兒澄淨了。人生大抵也是如此，即是到最後，花謝水枯，仍不肯忘記，那一場初初的源起。』 - 張曼娟
 
 身為一位腦包資料科學家的我，最近找到一個[網站](https://andybega.github.io)，裡面有很多資料處理與呈現的方式非常美觀。
-仔細觀察了一下他[Github](https://github.com/andybega/)後，他大部分程式都是用R寫的(殘念了)，但是我發現在一個角落有個很特別的repository在呼喚我。
+仔細觀察了一下他[Github](https://github.com/andybega/)，發現他大部分程式都是用R寫的(殘念了)，但是在角落有個很特別的repository在呼喚我。
 那天開始我戀愛了！無可救藥地愛上了[minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/)，這也是我建立這個獨立小blog的原因！
 對我而言網站架設、網頁設計的概念非常有限，只有在大學時期曾經在一間實驗室打工，當時做的事情不過就是架個Linux伺服器，作為主要網頁伺服器的備援。
 而剛出社會工作的我，由於從來沒寫過像樣的網站，上網找了一下相關教學盡是一堆妖魔鬼怪，先從前端三巨頭HTML5, CSS3, JavaScript，一直到node.js, TypeScript，什麼都還沒開始學就搞得我一個頭兩個大。
@@ -35,9 +35,10 @@ tags:
 也可以看我在這邊自以為的班門弄斧...
 
 ### I Gonna Fork You Up!
-無須多言，馬上趕到minimal-mistakes的[Github](https://github.com/mmistakes/minimal-mistakes)，怒fork到自己的reposiroty底下並clone下來。
-接下來就是比較tricky的地方了，由於腦殘的我一開始沒留心閱讀Github[相關文檔](https://help.github.com/articles/user-organization-and-project-pages/)，害我來來回回搞了一整天。
-主要有兩個重點：
+無須多言，馬上趕到minimal-mistakes的[Github](https://github.com/mmistakes/minimal-mistakes)，怒fork到自己的reposiroty並clone下來。
+接下來就是比較tricky的地方了，由於腦殘的我一開始沒留心閱讀[Github相關文檔](https://help.github.com/articles/user-organization-and-project-pages/)，害我來來回回搞了一整天。
+
+文檔主要有兩個重點：
 - 如果要做為個人網頁使用(就像這個網站)，那麼網址為"帳號名稱.github.io"(我是將repository也命名成這樣啦，不過影響應該不大)。重點來了，branch一定要預設為`master`！
 - 如果要做為Project專用網頁，那麼網址為"帳號名稱.github.io/專案名稱"。branch要預設為`gh-pages`。
 
@@ -58,13 +59,93 @@ group :jekyll_plugins do
 end
 {% endhighlight %}
 
-接著移除掉不相干的檔案，以免以後clone網站下來要花個十年半載，要刪除的檔案有`.editorconfig`, `.gitattributes`, `.github`, `/docs`, `/test`, `CHANGELOG.md`, `minimal-mistakes-jekyll.gemspec`, `README.md`,`screenshot-layouts.png`, `screenshot-layouts.png`。
+接著移除掉不相干的檔案，以免以後clone網站下來要花個十年半載，要刪除的檔案有：`.editorconfig`, `.gitattributes`, `.github`, `/docs`, `/test`, `CHANGELOG.md`, `minimal-mistakes-jekyll.gemspec`, `README.md`,`screenshot-layouts.png`, `screenshot-layouts.png`。
 
 ### 基本設定
+接著就是重頭戲了，打開`_config.yml`，要開始對網站進行一些基礎設定。
+- `locale: "[地區]"` 我是打`zh-TW`啦，你想崇洋媚外打個`en`,`en-GB`,`en-US`也是可以啦。
+- `title: "[網站名稱]"` 也就是顯示在最上方的網站名稱
+- `name: "[顯示使用者]"` 你的名字<s>電影還不錯</s>，預設會顯示在左側簡介。
+- `url: "[網址]"` 依照前一個章節說明，設定為"https://帳號名稱.github.io"，當然好野人有網域也是可以自行填寫。
+- `baseurl: "[專案名稱]"` 如果你的網頁是給專案使用才要填這個，我是直接無視啦。
+- `repository: "[Github帳號]/[專案名稱]"` 照著填就對啦，你的Github帳號以及fork下來的minimal-mistakes名稱。
+- `comments`底下的`provider: "disqus"`告訴網站要用DISQUS留言板，而`shortname`就是你在[DISQUS網站](https://disqus.com/)上建立的留言板代號。當然還可以做其他留言設定，不過我覺得這樣足矣。但是注意在設定DISQUS留言版的時候，語言選用`English`而不要選`Chinese`，因為我得了一種看簡體字會屎的病。
 
+中間我跳掉一大部分，因為我有點懶得用！接著在`# Social Sharing`這部分，就參考以下代碼：
+{% highlight ruby %}
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/yourTwitter"
+    - "https://facebook.com/yourFacebook"
+    - "https://instagram.com/yourProfile"
+    - "https://www.linkedin.com/in/yourprofile"
+    - "https://plus.google.com/your_profile"
+{% endhighlight %}
 
+接著`# Site Author`部分，也就是左側欄位表現自我的部分，交給大家自由發揮。
+而最後值得一提的是`# Defaults`底下的`comments: true`設定成每個post預設可留言。
+
+這樣大抵上就要完成了！
 
 ### 基本架構
+現在剩下的就是右上方那一列導覽列沒有設定，這時候典籍的話就會直接404找不到網頁，與其404還不如自己寫一份404專用網頁。
+1. 先建立`_pages`資料夾，並在底下建立一份`404.md`的文檔，範例如下。
+{% highlight %}
+---
+title: "無此頁面"
+layout: single
+excerpt: "作者腦殘了，沒有準備這個頁面！"
+sitemap: false
+permalink: /404.html
+---
+
+這個頁面可能因為作者腦殘沒設定好，或是版本更新年久失修，請聯絡我或是嘗試搜尋一下吧！
+
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = '{{ site.url }}'
+</script>
+<script type="text/javascript"
+  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+</script>
+{% endhighlight %}
+2. 在`_data`底下有個`navigation.yml`檔案，用來描述上方導覽列的內容及連結關係，範例如下。
+{% highlight %}
+# main links
+main:
+  - title: "網誌"
+    url: /year-archive/
+  - title: "類別"
+    url: /categories/
+  - title: "作品"
+    url: /works/
+  - title: "關於"
+    url: /about/
+{% endhighlight %}
+3. 接著回到`_pages`底下建立對應的頁面，其中我們以`網誌`為例，建立`year-archive.md`文檔。
+{% highlight %}
+---
+layout: archive
+permalink: /year-archive/ # 同navigation.yml內的描述連結
+title: "依年份編排"
+author_profile: false
+---
+
+{% include base_path %}
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.posts %}
+{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+{% if year != written_year %}
+<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture written_year %}{{ year }}{% endcapture %}
+{% endif %}
+{% include archive-single.html %}
+{% endfor %}
+{% endhighlight %}
+4. 最後終於可以開始寫文章了，每一篇文章的檔案格式為`YEAR-MONTH-DAY-title.md`，而且文檔要存在`_posts`目錄下。
+依照[Jekyll格式](https://jekyllrb.com/docs/posts/)，稍微摸一下應該不難上手。
 
 ## 何去何從
 > 『這是我交付給你的最後一項任務，永續的任務。在這個世界上，要表現快樂、感到快樂，不需要任何理由。接著你就能去愛，去做你想做的事。』 - 深夜加油站遇見蘇格拉底
