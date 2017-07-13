@@ -63,11 +63,11 @@ end
 
 ### 基本設定
 接著就是重頭戲了，打開`_config.yml`，要開始對網站進行一些基礎設定。
-- `locale: "[地區]"` 我是打`zh-TW`啦，你想崇洋媚外打個`en`,`en-GB`,`en-US`也是可以啦。
+- `locale: "[地區]"` 我是打`zh-TW`啦，你想崇洋媚外打個`en`,`en-GB`,`en-US`也是可以。
 - `title: "[網站名稱]"` 也就是顯示在最上方的網站名稱
 - `name: "[顯示使用者]"` 你的名字<s>電影還不錯</s>，預設會顯示在左側簡介。
 - `url: "[網址]"` 依照前一個章節說明，設定為"https://帳號名稱.github.io"，當然好野人有網域也是可以自行填寫。
-- `baseurl: "[專案名稱]"` 如果你的網頁是給專案使用才要填這個，我是直接無視啦。
+- `baseurl: "[專案名稱]"` 如果你的網頁是給專案使用才要填這個，我是直接無視。
 - `repository: "[Github帳號]/[專案名稱]"` 照著填就對啦，你的Github帳號以及fork下來的minimal-mistakes名稱。
 - `comments`底下的`provider: "disqus"`告訴網站要用DISQUS留言板，而`shortname`就是你在[DISQUS網站](https://disqus.com/)上建立的留言板代號。當然還可以做其他留言設定，不過我覺得這樣足矣。但是注意在設定DISQUS留言版的時候，語言選用`English`而不要選`Chinese`，因為我得了一種看簡體字會屎的病。
 
