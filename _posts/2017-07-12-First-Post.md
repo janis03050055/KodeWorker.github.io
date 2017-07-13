@@ -45,7 +45,7 @@ tags:
 所以改好fork下來的repository名稱，如果你要作為Project裝用網頁就checkout一個新的branch，名稱為`gh-pages`。
 接著將`Gemfile`這個檔案內容改成如下所示：
 
-{% highlight ruby linenos%}
+{% highlight ruby %}
 source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
@@ -72,7 +72,7 @@ end
 - `comments`底下的`provider: "disqus"`告訴網站要用DISQUS留言板，而`shortname`就是你在[DISQUS網站](https://disqus.com/)上建立的留言板代號。當然還可以做其他留言設定，不過我覺得這樣足矣。但是注意在設定DISQUS留言版的時候，語言選用`English`而不要選`Chinese`，因為我得了一種看簡體字會屎的病。
 
 中間我跳掉一大部分，因為我有點懶得用！接著在`# Social Sharing`這部分，就參考以下代碼：
-{% highlight ruby linenos%}
+{% highlight ruby %}
 social:
   type:  # Person or Organization (defaults to Person)
   name:  # If the user or organization name differs from the site's name
@@ -92,7 +92,7 @@ social:
 ### 基本架構
 現在剩下的就是右上方那一列導覽列沒有設定，這時候點擊的話就會直接404找不到網頁，與其找不到還不如自己寫一份404專用網頁。
 1. 先建立`_pages`資料夾，並在底下建立一份`404.md`的文檔，範例如下。
-{% highlight markdown linenos%}
+{% highlight markdown %}
 ---
 title: "無此頁面"
 layout: single
@@ -112,7 +112,7 @@ permalink: /404.html
 </script>
 {% endhighlight %}
 2. 在`_data`底下有個`navigation.yml`檔案，用來描述上方導覽列的內容及連結關係，範例如下。
-{% highlight text linenos%}
+{% highlight markdown %}
 # main links
 main:
   - title: "網誌"
@@ -125,25 +125,27 @@ main:
     url: /about/
 {% endhighlight %}
 3. 接著回到`_pages`底下建立對應的頁面，其中我們以`網誌`為例，建立`year-archive.md`文檔。
-{% highlight markdown linenos%}
----
-layout: archive
-permalink: /year-archive/
-title: "依年份編排"
-author_profile: false
----
+<pre>
+  <code class="markdown">
+    ---
+    layout: archive
+    permalink: /year-archive/
+    title: "依年份編排"
+    author_profile: false
+    ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-{% if year != written_year %}
-<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-{% capture written_year %}{{ year }}{% endcapture %}
-{% endif %}
-{% include archive-single.html %}
-{% endfor %}
-{% endhighlight %}
+    {% include base_path %}
+    {% capture written_year %}'None'{% endcapture %}
+    {% for post in site.posts %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+    {% endif %}
+    {% include archive-single.html %}
+    {% endfor %}
+    </code>
+</pre>
 4. 最後終於可以開始寫文章了，每一篇文章的檔案格式為`YEAR-MONTH-DAY-title.md`，而且文檔要存在`_posts`目錄下。
 依照[Jekyll格式](https://jekyllrb.com/docs/posts/)，稍微摸一下應該不難上手。
 
