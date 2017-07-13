@@ -36,6 +36,7 @@ header:
 - Machine Learning:終生的興趣！不時到[reddit](https://www.reddit.com/r/MachineLearning/)上面逛總有新奇發現！
 - Database:做資料處理不會Database感覺就有點弱掉了。
 - 第二外語-日語:總想知道日本電影、動畫真正在說什麼？自學吧！
+
 ### 休閒活動
 - 游泳:目前只為超慢蛙式，努力朝50m50秒以下邁進。
 - 打壘球:喜歡守備的感覺，但是還是個廢渣。
