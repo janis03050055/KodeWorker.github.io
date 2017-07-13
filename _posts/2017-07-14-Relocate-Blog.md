@@ -11,7 +11,7 @@ tags:
 - 部落格備份
 - Python
 header:
-    image: /assets/images/2017/pexels-photo-86172.jpg
+    image: /assets/images/2017/pexels-photo-86172.jpeg
     caption: "Lake from https://www.pexels.com/"
 ---
 
