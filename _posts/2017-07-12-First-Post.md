@@ -93,7 +93,6 @@ social:
 現在剩下的就是右上方那一列導覽列沒有設定，這時候點擊的話就會直接404找不到網頁，與其找不到還不如自己寫一份404專用網頁。
 1. 先建立`_pages`資料夾，並在底下建立一份`404.md`的文檔，範例如下。
 {% highlight markdown%}
-
 ---
 title: "無此頁面"
 layout: single
@@ -111,11 +110,9 @@ permalink: /404.html
 <script type="text/javascript"
   src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
 </script>
-
 {% endhighlight %}
 2. 在`_data`底下有個`navigation.yml`檔案，用來描述上方導覽列的內容及連結關係，範例如下。
 {% highlight markdown%}
-
 # main links
 main:
   - title: "網誌"
@@ -126,29 +123,26 @@ main:
     url: /works/
   - title: "關於"
     url: /about/
-
 {% endhighlight %}
 3. 接著回到`_pages`底下建立對應的頁面，其中我們以`網誌`為例，建立`year-archive.md`文檔。
 {% highlight markdown%}
+    ---
+    layout: archive
+    permalink: /year-archive/ # 同navigation.yml內的描述連結
+    title: "依年份編排"
+    author_profile: false
+    ---
 
----
-layout: archive
-permalink: /year-archive/ # 同navigation.yml內的描述連結
-title: "依年份編排"
-author_profile: false
----
-
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-{% if year != written_year %}
-<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-{% capture written_year %}{{ year }}{% endcapture %}
-{% endif %}
-{% include archive-single.html %}
-{% endfor %}
-
+    {% include base_path %}
+    {% capture written_year %}'None'{% endcapture %}
+    {% for post in site.posts %}
+    {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+    {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+    {% endif %}
+    {% include archive-single.html %}
+    {% endfor %}
 {% endhighlight %}
 4. 最後終於可以開始寫文章了，每一篇文章的檔案格式為`YEAR-MONTH-DAY-title.md`，而且文檔要存在`_posts`目錄下。
 依照[Jekyll格式](https://jekyllrb.com/docs/posts/)，稍微摸一下應該不難上手。
