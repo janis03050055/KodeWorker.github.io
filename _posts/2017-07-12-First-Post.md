@@ -11,10 +11,10 @@ tags:
 - DISQUS
 ---
 
-{% include toc title = "Contents" %}
+{% include toc title = "目錄" %}
 
 ## 緣起不滅
-身為腦包資料科學家，最近找到一個[網站](https://andybega.github.io)，裡面有很多資料處理與呈現的方式非常美觀。
+身為一位腦包資料科學家的我，最近找到一個[網站](https://andybega.github.io)，裡面有很多資料處理與呈現的方式非常美觀。
 仔細觀察了一下他[Github](https://github.com/andybega/)後，他大部分程式都是用R寫的(殘念了)，但是我發現在一個角落有個很特別的repository在呼喚我。
 那天開始我戀愛了！無可救藥地愛上了[minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/)，這也是我建立這個獨立小blog的原因！
 對我而言網站架設、網頁設計的概念非常有限，只有在大學時代曾經在一間實驗室打過工，當時做的事情不過就是架個Linux伺服器，作為主要網頁伺服器的備援。
