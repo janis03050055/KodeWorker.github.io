@@ -7,6 +7,7 @@ categories:
 - 教學
 tags:
 - minimal-mistakes
+- Jekyll
 - Github
 - DISQUS
 header:

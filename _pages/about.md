@@ -13,13 +13,19 @@ header:
 
 ## 經歷
 ### 大學階段
-- 待補
+- **中山大學96年度第一學期書香獎**...大學只拿一次，從此成績大爆炸！！！
+- **基層文化服務社美宣長**...只當一學期就撐不住了。
+- 大學階段其實幾乎在摸魚跟看小說中渡過，直到讀研究所的時候才有想拚一下的想法。也沒拚得很猛的樣子，不過寫程式的興趣不減反增。
 
 ### 碩士階段
-- 待補
+- **Multi-valued neuron with new learning schemes**, Shin-Fu Wu and Shie-Jue Lee, Proceedings of the International Joint Conference on Neural Networks, 2013
+- **Multi-Valued Neuron with Sigmoid Activation Function for Pattern Classification**, Shen-Fu Wu, Yu-Shu Chiou and Shie-Jue Lee, AIDM, 2014
+- **Employing local modeling in machine learning based methods for time-series prediction**, Shin-Fu Wu and Shie-Jue Lee, Expert Systems with Applications, vol. 42, issue 1, Jan. 2015
+- **工研院南創園區委託計畫：多變數時間序列預測模型**
+- **Essay: A Novel Forecasting Method for Time Series Data with Missing Values**
 
 ### 工作階段
-- **Prognostic Health Management**: MOCVD - particle filter
+- **Prognostic Health Management**: MOCVD - particle filter (next run failure/remaining useful life) prediction
 - **Virtual Metrology**: milling tool chipping detection
 
 ## 專長
@@ -31,7 +37,7 @@ header:
 
 ### 其他技能
 - **Git**:工作後開始遇到系統整合才有用到，不然我也沒有機會與Github邂逅。
-- **Photoshop**:別提了，各種血汗各種淚。
+- **Photoshop**:別提了，各種血汗(尿)各種淚。
 
 ## 興趣
 ### 學習目標
