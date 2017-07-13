@@ -120,7 +120,7 @@ tags:
       - title: "關於"
         url: /about/
 {% endhighlight %}
-- 接著回到`_pages`底下建立對應的頁面，其中我們以`網誌`為例，建立`year-archive.md`[文檔](https://github.com/KodeWorker/KodeWorker.github.io/blob/master/_pages/year-archive.md)。
+- 接著回到`_pages`底下建立對應的頁面，其中我們以`網誌`為例，建立`year-archive.md`文檔，請參考[Github原始碼](https://github.com/KodeWorker/KodeWorker.github.io/blob/master/_pages/year-archive.md)。
 - 最後終於可以開始寫文章了，每一篇文章的檔案格式為`YEAR-MONTH-DAY-title.md`，而且文檔要存在`_posts`目錄下。
 依照[Jekyll格式](https://jekyllrb.com/docs/posts/)，稍微摸一下應該不難上手。
 
