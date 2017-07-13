@@ -13,7 +13,7 @@ tags:
 
 {% include toc title = "Contents" %}
 
-# 緣起不滅
+## 緣起不滅
 身為腦包資料科學家，最近找到一個[網站](https://andybega.github.io)，裡面有很多資料處理與呈現的方式非常美觀。
 仔細觀察了一下他[Github](https://github.com/andybega/)後，他大部分程式都是用R寫的(殘念了)，但是我發現在一個角落有個很特別的repository在呼喚我。
 那天開始我戀愛了！無可救藥地愛上了[minimal-mistakes](https://mmistakes.github.io/minimal-mistakes/)，這也是我建立這個獨立小blog的原因！
@@ -21,12 +21,12 @@ tags:
 而剛出社會工作的我，由於從來沒寫過像樣的網站，上網找了一下相關教學盡是一堆妖魔鬼怪，先從前端三巨頭HTML5+CSS3+JavaScript，一直到什麼node.js, TypeScript，什麼都還沒開始學就搞得我一個頭兩個大。
 看到minimal-mistakes能夠利用Github建立起有留言板功能的簡易blog，又是開放的MIT License讓大家能自由客製化自己的頁面，根本佛心。
 
-# 整裝備戰
+## 整裝備戰
 啊，我要準備什麼？
 首先一定要有[Github](https://github.com/)帳號，雖然想架設在自己的網站伺服器也可以，但是對於一介窮逼的我而言還是架在Github上好了。
 接著為了讓網站有留言版的功能，還要申請個[DISQUS](https://disqus.com/)帳號，讓網頁偽裝成有動態物件的感覺，事實上是委託給別的網站處理。
 接著，準備一顆樂觀的心情，以及一個下午能夠荒廢的時光。
 
-# 架站101
+## 架站101
 如果你的英文跟我差不多好(爛？)，可以直接到官方網站的[Quick-Start](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)得到最新最完整的資訊。
 也可以看我在這邊自以為的班門弄斧... (未完)
