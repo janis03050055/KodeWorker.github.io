@@ -72,6 +72,7 @@ header:
 - `baseurl: "[專案名稱]"` 如果你的網頁是給專案使用才要填這個，我是直接無視。
 - `repository: "[Github帳號]/[專案名稱]"` 照著填就對啦，你的Github帳號以及fork下來的minimal-mistakes名稱。
 - `comments`底下的`provider: "disqus"`告訴網站要用DISQUS留言板，而`shortname`就是你在[DISQUS網站](https://disqus.com/)上建立的留言板代號。當然還可以做其他留言設定，不過我覺得這樣足矣。但是注意在設定DISQUS留言版的時候，語言選用`English`而不要選`Chinese`，因為我得了一種看簡體字會屎的病。
+
 中間我跳掉一大部分，因為我有點懶得用！接著在`# Social Sharing`這部分，就參考以下代碼：
 {% highlight ruby %}
     social:
