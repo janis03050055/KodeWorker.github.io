@@ -589,5 +589,3 @@ tags:
 		</tr>
 	</tbody>
 </table>
-
-

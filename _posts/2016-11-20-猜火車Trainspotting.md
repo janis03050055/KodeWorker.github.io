@@ -9,7 +9,7 @@ tags:
 - trainspotting
 ---
 
-『I chose not to choose life. I chose somethin' else. And the reasons? There are no reasons. Who needs reasons when you've got heroin?』 Renton，Trainspotting
+>『I chose not to choose life. I chose somethin' else. And the reasons? There are no reasons. Who needs reasons when you've got heroin?』 Renton，Trainspotting
 
 <p style="text-align:center"><img alt="Trainspotting.jpg" src="https://pic.pimg.tw/kwbuster/1479625048-4147858758_n.jpg?v=1479625065" title="Trainspotting.jpg"></p>
 
@@ -119,4 +119,3 @@ tags:
 
 
 (後記：你老師咧！片商竟然撤片了！不過還是讓我在這次<a href="http://kwbuster.pixnet.net/blog/post/314510953-%5B%E9%9B%9C%E8%A8%98%5D%E5%BA%8F%E5%B9%95%EF%BC%9F%E7%BA%8C%E5%B9%95%EF%BC%9F%E7%95%9C%E7%89%A7%EF%BC%9F">端午節</a>看到了『T2』，我好興奮呀！！！2017/6/5)
-
