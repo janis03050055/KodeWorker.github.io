@@ -16,7 +16,7 @@ tags:
 
 <p style="text-align: center;"><iframe allowfullscreen="" class="" frameborder="0" height="315" src="https://www.youtube.com/embed/L4sbDxR22z4?wmode=transparent" width="560"></iframe></p>
 
-這首歌的翻譯我一整個隨性（隨便？！），見笑囉。</p><p>參考網站：<a href="https://genius.com/Cigarettes-after-sex-k-lyrics">https://genius.com/Cigarettes-after-sex-k-lyrics</a>
+這首歌的翻譯我一整個隨性（隨便？！），見笑囉。</p><p>參考網站：[https://genius.com/Cigarettes-after-sex-k-lyrics](https://genius.com/Cigarettes-after-sex-k-lyrics)
 
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px">
 	<tbody>

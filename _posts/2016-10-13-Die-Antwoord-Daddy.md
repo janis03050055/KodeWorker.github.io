@@ -27,7 +27,7 @@ tags:
 
 用語比較腦包，但是字義跟俚語都有考慮到位，請客官安心服用。
 
-參考網站：<a href="http://genius.com/Die-antwoord-daddy-lyrics">http://genius.com/Die-antwoord-daddy-lyrics</a>
+參考網站：[http://genius.com/Die-antwoord-daddy-lyrics](http://genius.com/Die-antwoord-daddy-lyrics)
 
 <table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px">
 	<tbody>
