@@ -76,9 +76,7 @@ tags:
 		</tr>
 		<tr>
 			<td>Need the crack of a whip</td>
-			<td>
-<p>需要鞭子上的裂痕
-			</td>
+			<td>需要鞭子上的裂痕</td>
 		</tr>
 		<tr>
 			<td>Need some blood in the cut</td>

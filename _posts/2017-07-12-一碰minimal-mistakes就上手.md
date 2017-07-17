@@ -10,9 +10,6 @@ tags:
 - Jekyll
 - Github
 - DISQUS
-header:
-    image: /assets/images/2017/night-trees-stars.jpg
-    caption: "Night Sky from https://www.pexels.com/"
 ---
 
 {% include toc title = "目錄" %}

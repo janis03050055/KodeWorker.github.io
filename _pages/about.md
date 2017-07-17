@@ -5,8 +5,8 @@ excerpt: "關於我的大小事"
 sitemap: true
 permalink: /about/
 header:
-  image: /assets/images/2017/desert-drought-dehydrated-clay-soil-60013.jpeg
-  caption: "Dessert from https://www.pexels.com/"
+  image: /assets/images/pexels-photo-86172.jpeg
+  caption: "Lake from https://www.pexels.com/"
 ---
 ## 簡介
 目前我在[工業技術研究院](https://www.itri.org.tw/)的[巨資中心](https://www.itri.org.tw/chi/Content/Messagess/contents.aspx?SiteID=1&MmmID=620622503266335627)擔任小小副工程師，平日除了寫code、survey paper、run simulations外，大部分的時間都在精進自己Python的能力，以及閱讀機器學習領域相關的新知。

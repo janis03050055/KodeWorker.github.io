@@ -24,9 +24,7 @@ tags:
 		</tr>
 		<tr>
 			<td>I remember when I first noticed that you liked me back</td>
-			<td>
-<p>我記得當我第一次注意到你期待著我的歸來
-			</td>
+			<td>我記得當我第一次注意到你期待著我的歸來</td>
 		</tr>
 		<tr>
 			<td>We were sitting down in a restaurant waiting for the check</td>
@@ -118,9 +116,7 @@ tags:
 		</tr>
 		<tr>
 			<td>Stay with me I don't want you to leave...</td>
-			<td>
-<p>待在我身邊，不想要妳離去...
-			</td>
+			<td>待在我身邊，不想要妳離去...</td>
 		</tr>
 		<tr>
 		</tr>
