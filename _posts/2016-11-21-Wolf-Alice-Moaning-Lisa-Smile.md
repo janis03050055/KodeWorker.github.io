@@ -2,6 +2,7 @@
 layout: single
 title: Wolf Alice - Moaning Lisa Smile
 date: 2016-11-21 15:27:25
+excerpt: 搖滾少女對社會的怒吼。
 categories:
 - 認真音樂賞析
 tags:
@@ -160,5 +161,3 @@ tags:
 		</tr>
 	</tbody>
 </table>
-
-

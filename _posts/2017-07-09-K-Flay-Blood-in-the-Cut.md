@@ -2,6 +2,7 @@
 layout: single
 title: K. Flay - Blood in the Cut
 date: 2017-07-09 02:21:26
+excerpt: 帥氣搖滾饒舌女歌手
 categories:
 - 認真音樂賞析
 tags:
@@ -151,5 +152,3 @@ tags:
 		</tr>
 	</tbody>
 </table>
-
-

@@ -2,6 +2,7 @@
 layout: single
 title: Tales & Remedies - The Words I Sing
 date: 2016-11-19 16:14:08
+excerpt: 曲風輕快的法國樂團。
 categories:
 - 認真音樂賞析
 tags:
@@ -133,4 +134,3 @@ tags:
 		</tr>
 	</tbody>
 </table>
-

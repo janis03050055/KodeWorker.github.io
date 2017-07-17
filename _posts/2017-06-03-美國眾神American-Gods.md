@@ -2,6 +2,7 @@
 layout: single
 title: 美國眾神(American Gods)
 date: 2017-06-03 06:51:54
+excerpt: 眾神不死，只被遺忘。
 categories:
 - 認真讀書心得
 tags:

@@ -2,6 +2,7 @@
 layout: single
 title: 希特勒回來了(Er ist wieder da)
 date: 2017-05-14 02:26:29
+excerpt: 我這不是來了？極端主義將用更廣大的力量，再次席捲全世界。
 categories:
 - 認真讀書心得
 tags:

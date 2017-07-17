@@ -2,6 +2,7 @@
 layout: single
 title: Cigarettes After Sex - K.
 date: 2017-05-14 08:36:13
+excerpt: 如夢似幻的音樂中，找到自己最深的情慾。
 categories:
 - 認真音樂賞析
 tags:
@@ -141,5 +142,3 @@ tags:
 		</tr>
 	</tbody>
 </table>
-
-
