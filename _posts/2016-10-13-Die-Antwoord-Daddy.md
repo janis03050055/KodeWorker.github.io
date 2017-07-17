@@ -22,7 +22,6 @@ tags:
 
 <p style="text-align: center;"><iframe allowfullscreen="" class="" frameborder="0" height="315" src="https://www.youtube.com/embed/XjNWlzJz2VA?wmode=transparent" width="560"></iframe></p>
 
-
 小弟不專業翻譯歌詞
 
 用語比較腦包，但是字義跟俚語都有考慮到位，請客官安心服用。
