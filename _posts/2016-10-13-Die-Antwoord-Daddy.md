@@ -29,8 +29,7 @@ tags:
 
 參考網站：[http://genius.com/Die-antwoord-daddy-lyrics](http://genius.com/Die-antwoord-daddy-lyrics)
 
-<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px">
-	<tbody>
+<table align="center" border="0" cellpadding="1" cellspacing="1">
 		<tr>
 			<td>[Hook 1: Yolandi]</td>
 		</tr>
@@ -588,5 +587,4 @@ tags:
 		</tr>
 		<tr>
 		</tr>
-	</tbody>
 </table>

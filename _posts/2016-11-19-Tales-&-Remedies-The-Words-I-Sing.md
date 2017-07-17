@@ -21,8 +21,7 @@ tags:
 
 <font color="#363636" face="helvetica neue, helvetica, arial, sans-serif"><span style="font-size:12px">作者：Guillaume Cousin</span></font>
 
-<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px">
-	<tbody>
+<table align="center" border="0" cellpadding="1" cellspacing="1">
 		<tr>
 			<td>我前往</td>
 		</tr>
@@ -132,5 +131,4 @@ tags:
 		<tr>
 			<td>我想每天都有陽光灑在肌膚上</td>
 		</tr>
-	</tbody>
 </table>

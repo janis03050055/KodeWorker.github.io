@@ -19,8 +19,7 @@ tags:
 
 參考網站：[https://genius.com/Kflay-blood-in-the-cut-lyrics](https://genius.com/Kflay-blood-in-the-cut-lyrics)
 
-<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px">
-	<tbody>
+<table align="center" border="0" cellpadding="1" cellspacing="1">
 		<tr>
 			<td>The boy I love’s got another girl</td>
 			<td>我深愛的男人愛上另一個女人</td>
@@ -149,5 +148,4 @@ tags:
 			<td>Need some blood in the cut</td>
 			<td>需要傷口裡的鮮血</td>
 		</tr>
-	</tbody>
 </table>

@@ -20,8 +20,7 @@ tags:
 
 參考網站：[http://genius.com/Wolf-alice-moaning-lisa-smile-lyrics](http://genius.com/Wolf-alice-moaning-lisa-smile-lyrics)
 
-<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px">
-	<tbody>
+<table align="center" border="0" cellpadding="1" cellspacing="1">
 		<tr>
 			<td>[Intro]</td>
 		</tr>
@@ -159,5 +158,4 @@ tags:
 			<td>No, it never is enough</td>
 			<td>不，永遠都不夠</td>
 		</tr>
-	</tbody>
 </table>

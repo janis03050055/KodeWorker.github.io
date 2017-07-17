@@ -18,8 +18,7 @@ tags:
 
 這首歌的翻譯我一整個隨性（隨便？！），見笑囉。</p><p>參考網站：[https://genius.com/Cigarettes-after-sex-k-lyrics](https://genius.com/Cigarettes-after-sex-k-lyrics)
 
-<table align="center" border="0" cellpadding="1" cellspacing="1" style="width:500px">
-	<tbody>
+<table align="center" border="0" cellpadding="1" cellspacing="1">
 		<tr>
 			<td>[Verse 1]</td>
 		</tr>
@@ -140,5 +139,4 @@ tags:
 			<td>When you light the candle</td>
 			<td>當你點完蠟燭</td>
 		</tr>
-	</tbody>
 </table>
