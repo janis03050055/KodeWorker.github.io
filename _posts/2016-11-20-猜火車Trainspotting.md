@@ -102,7 +102,6 @@ tags:
 <p style="text-align: center;">但是過去的『好朋友』都跟來了，一場鬧劇過後還是回到了蘇格蘭。</p>
 
 ![狐群狗黨](/assets/images/album/電影賞析-Trainspotting/friendswillbefriends.jpg){: .align-center}
-<p style="text-align:center"><img alt="friendswillbefriends.png" src="https://pic.pimg.tw/kwbuster/1479625021-2729760123_n.png" title="friendswillbefriends.png"></p>
 
 <p style="text-align: center;">走私毒品大暴利耶，2000英鎊變16000英鎊還可能更高</p>
 
