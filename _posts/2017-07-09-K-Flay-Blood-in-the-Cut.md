@@ -19,131 +19,38 @@ tags:
 
 參考網站：[https://genius.com/Kflay-blood-in-the-cut-lyrics](https://genius.com/Kflay-blood-in-the-cut-lyrics)
 
-<table align="center" border="0" cellpadding="1" cellspacing="1">
-		<tr>
-			<td>The boy I love’s got another girl</td>
-			<td>我深愛的男人愛上另一個女人</td>
-		</tr>
-		<tr>
-			<td>He might be fucking her right now</td>
-			<td>他現在或許正在幹她</td>
-		</tr>
-		<tr>
-			<td>I don’t have an apartment</td>
-			<td>我沒有住所</td>
-		</tr>
-		<tr>
-			<td>Thought if I was smart I’d make it far</td>
-			<td>我想，如果夠聰明的話，我應該能度過難關</td>
-		</tr>
-		<tr>
-			<td>But I’m still at the start</td>
-			<td>但是我仍然想著我們戀情開始的時光</td>
-		</tr>
-		<tr>
-			<td>Guess I’m contagious it’d be safest if you ran</td>
-			<td>我就像憂鬱的帶原者，我猜離開是你最安全的手段</td>
-		</tr>
-		<tr>
-			<td>Fuck that’s what they all just end up doing in the end</td>
-			<td>去你的，他們最後總是會走到這步</td>
-		</tr>
-		<tr>
-			<td>Take my car and paint it black</td>
-			<td>將我的車，漆成黑色</td>
-		</tr>
-		<tr>
-			<td>Take my arm, break it in half</td>
-			<td>將我手臂，斷成兩截</td>
-		</tr>
-		<tr>
-			<td>Say something, do it soon</td>
-			<td>快點說些什麼、做些什麼</td>
-		</tr>
-		<tr>
-			<td>It’s too quiet in this room</td>
-			<td>房間裡充滿著寂寞</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>I need noise</td>
-			<td>我要噪音</td>
-		</tr>
-		<tr>
-			<td>I need the buzz of a sub</td>
-			<td>我要音響喇叭上的震動</td>
-		</tr>
-		<tr>
-			<td>Need the crack of a whip</td>
-			<td>需要鞭子上的裂痕</td>
-		</tr>
-		<tr>
-			<td>Need some blood in the cut</td>
-			<td>需要傷口裡的鮮血</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>Met back up with the boy I love</td>
-			<td>重新與我深愛的男人見面</td>
-		</tr>
-		<tr>
-			<td>Cried on the streets of San Francisco</td>
-			<td>在舊金山的大街上痛哭</td>
-		</tr>
-		<tr>
-			<td>I don’t have an agenda</td>
-			<td>我沒有任何行程</td>
-		</tr>
-		<tr>
-			<td>All I do is pretend to be ok so my friends</td>
-			<td>我要做的只是假裝一如往常，所以我的朋友</td>
-		</tr>
-		<tr>
-			<td>Can’t see my heart in the blender</td>
-			<td>不會發現我的心如刀絞</td>
-		</tr>
-		<tr>
-			<td>Lately, I’ve been killing all my time</td>
-			<td>最近我一直漫無目的的殺時間</td>
-		</tr>
-		<tr>
-			<td>Reading through your messages my favorite way to die</td>
-			<td>讀遍你所有的訊息，並尋找最喜歡的自殺方法</td>
-		</tr>
-		<tr>
-			<td>Take my head and kick it in</td>
-			<td>提著頭慷慨赴死</td>
-		</tr>
-		<tr>
-			<td>Break some bread for all my sins</td>
-			<td>分享聖餐並禱告我的罪過</td>
-		</tr>
-		<tr>
-			<td>Say a word, do it soon</td>
-			<td>快點說些什麼、做些什麼</td>
-		</tr>
-		<tr>
-			<td>It’s too quiet in this room</td>
-			<td>房間裡充滿著寂寞</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>I need noise</td>
-			<td>我要噪音</td>
-		</tr>
-		<tr>
-			<td>I need the buzz of a sub</td>
-			<td>我要音響喇叭上的震動</td>
-		</tr>
-		<tr>
-			<td>Need the crack of a whip</td>
-			<td>需要鞭子上的裂痕</td>
-		</tr>
-		<tr>
-			<td>Need some blood in the cut</td>
-			<td>需要傷口裡的鮮血</td>
-		</tr>
-</table>
+|Lyrics|歌詞|
+|:-|:-|
+|The boy I love’s got another girl|我深愛的男人愛上另一個女人|
+|He might be fucking her right now|他現在或許正在幹她|
+|I don’t have an apartment|我沒有住所|
+|Thought if I was smart I’d make it far|我想，如果夠聰明的話，我應該能度過難關|
+|But I’m still at the start|但是我仍然想著我們戀情開始的時光|
+|Guess I’m contagious it’d be safest if you ran|我就像憂鬱的帶原者，我猜離開是你最安全的手段|
+|Fuck that’s what they all just end up doing in the end|去你的，他們最後總是會走到這步|
+|Take my car and paint it black|將我的車，漆成黑色|
+|Take my arm, break it in half|將我手臂，斷成兩截|
+|Say something, do it soon|快點說些什麼、做些什麼|
+|It’s too quiet in this room|房間裡充滿著寂寞|
+|---|---|
+|I need noise|我要噪音|
+|I need the buzz of a sub|我要揚聲器上的震動|
+|Need the crack of a whip|需要鞭子上的裂痕|
+|Need some blood in the cut|需要傷口裡的鮮血|
+|---|---|
+|Met back up with the boy I love|重新與我深愛的男人見面|
+|Cried on the streets of San Francisco|在舊金山的大街上痛哭|
+|I don’t have an agenda|我沒有任何行程|
+|All I do is pretend to be ok so my friends|我要做的只是假裝一如往常，所以我的朋友|
+|Can’t see my heart in the blender|不會發現我的心如刀絞|
+|Lately, I’ve been killing all my time|最近我一直漫無目的的殺時間|
+|Reading through your messages my favorite way to die|讀遍你所有的訊息，並尋找最喜歡的自殺方法|
+|Take my head and kick it in|提著頭慷慨赴死|
+|Break some bread for all my sins|分享聖餐並禱告我的罪過|
+|Say something, do it soon|快點說些什麼、做些什麼|
+|It’s too quiet in this room|房間裡充滿著寂寞|
+|---|---|
+|I need noise|我要噪音|
+|I need the buzz of a sub|我要揚聲器上的震動|
+|Need the crack of a whip|需要鞭子上的裂痕|
+|Need some blood in the cut|需要傷口裡的鮮血|

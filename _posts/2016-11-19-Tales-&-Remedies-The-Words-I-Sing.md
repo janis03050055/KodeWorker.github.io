@@ -19,141 +19,37 @@ tags:
 
 參考網址：[https://talesandremedies.bandcamp.com/track/the-words-i-sing](https://talesandremedies.bandcamp.com/track/the-words-i-sing)
 
-<font color="#363636" face="helvetica neue, helvetica, arial, sans-serif"><span style="font-size:12px">作者：Guillaume Cousin</span></font>
-
-<table align="center" border="0" cellpadding="1" cellspacing="1">
-		<tr>
-			<td>I go where</td>
-			<td>我前往</td>
-		</tr>
-		<tr>
-			<td>The golden glints gather </td>
-			<td>充滿金光閃爍的地方</td>
-		</tr>
-		<tr>
-			<td>I follow</td>
-			<td>我追尋</td>
-		</tr>
-		<tr>
-			<td>Their lights and I whisper</td>
-			<td>它們的光芒並且低語</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>The words I sing </td>
-			<td>我哼的歌詞</td>
-		</tr>
-		<tr>
-			<td>Carry hope like spring</td>
-			<td>如春天般帶來希望</td>
-		</tr>
-		<tr>
-			<td>I'm fed up with the gloomy, the dark and the grim</td>
-			<td>我受夠了陰沉、黑暗與憂鬱</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>The words I sing </td>
-			<td>我哼的歌詞</td>
-		</tr>
-		<tr>
-			<td>Carry hope like spring</td>
-			<td>如春天般帶來希望</td>
-		</tr>
-		<tr>
-			<td>I wanna have the sun everyday on my skin</td>
-			<td>我想每天都有陽光灑在肌膚上</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>They'll take me</td>
-			<td>他們將帶我</td>
-		</tr>
-		<tr>
-			<td>To the borders of the world</td> 
-			<td>到世界的邊緣</td>
-		</tr>
-		<tr>
-			<td>Where the seas</td>
-			<td>那裡的海洋</td>
-		</tr>
-		<tr>
-			<td>Fall in the Milky Way</td>
-			<td>墜入到銀河中</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>The words I sing </td>
-			<td>我哼的歌詞</td>
-		</tr>
-		<tr>
-			<td>Carry hope like spring</td>
-			<td>如春天般帶來希望</td>
-		</tr>
-		<tr>
-			<td>I'm fed up with the gloomy, the dark and the grim</td>
-			<td>我受夠了陰沉、黑暗與憂鬱</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>The words I sing </td>
-			<td>我哼的歌詞</td>
-		</tr>
-		<tr>
-			<td>Carry hope like spring</td>
-			<td>如春天般帶來希望</td>
-		</tr>
-		<tr>
-			<td>I wanna have the sun everyday on my skin</td>
-			<td>我想每天都有陽光灑在肌膚上</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>I will kiss</td>
-			<td>我將親吻</td>
-		</tr>
-		<tr>
-			<td>The sea drops in the air</td>
-			<td>飄在空中的浪花</td>
-		</tr>
-		<tr>
-			<td>Should I jump?</td>
-			<td>我該跳嗎？</td>
-		</tr>
-		<tr>
-			<td>Please just remember that … </td>
-			<td>只需記住...</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>The words I sing</td>
-			<td>我哼的歌詞</td>
-		</tr>
-		<tr>
-			<td>Carry hope like spring</td>
-			<td>如春天般帶來希望</td>
-		</tr>
-		<tr>
-			<td>I'm fed up with the gloomy, the dark and the grim</td>
-			<td>我受夠了陰沉、黑暗與憂鬱</td>
-		</tr>
-		<tr>
-			<td>The words I sing</td>
-			<td>我哼的歌詞</td>
-		</tr>
-		<tr>
-			<td>Carry hope like spring</td>
-			<td>如春天般帶來希望</td>
-		</tr>
-		<tr>
-			<td>I wanna have the sun everyday on my skin</td>
-			<td>我想每天都有陽光灑在肌膚上</td>
-		</tr>
-</table>
+|Lyrics|歌詞|
+|:-|:-|
+|I go where|我前往|
+|The golden glints gather|充滿金光閃爍的地方|
+|I follow|我追尋|
+|Their lights and I whisper|它們的光芒並且低語|
+|The words I sing|我哼的歌詞|
+|Carry hope like spring|如春天般帶來希望|
+|I'm fed up with the gloomy, the dark and the grim|我受夠了陰沉、黑暗與憂鬱|
+|The words I sing|我哼的歌詞|
+|Carry hope like spring|如春天般帶來希望|
+|I wanna have the sun everyday on my skin|我想每天都有陽光灑在肌膚上|
+|---|---|
+|They'll take me|他們將帶我|
+|To the borders of the world|到世界的邊緣|
+|Where the seas|那裡的海洋|
+|Fall in the Milky Way|墜入到銀河中|
+|The words I sing|我哼的歌詞|
+|Carry hope like spring|如春天般帶來希望|
+|I'm fed up with the gloomy, the dark and the grim|我受夠了陰沉、黑暗與憂鬱|
+|The words I sing|我哼的歌詞|
+|Carry hope like spring|如春天般帶來希望|
+|I wanna have the sun everyday on my skin|我想每天都有陽光灑在肌膚上|
+|---|---|
+|I will kiss|我將親吻|
+|The sea drops in the air|飄在空中的浪花|
+|Should I jump?|我該跳嗎？|
+|Please just remember that …|只需記住...|
+|The words I sing|我哼的歌詞|
+|Carry hope like spring|如春天般帶來希望|
+|I'm fed up with the gloomy, the dark and the grim|我受夠了陰沉、黑暗與憂鬱|
+|The words I sing|我哼的歌詞|
+|Carry hope like spring|如春天般帶來希望|
+|I wanna have the sun everyday on my skin|我想每天都有陽光灑在肌膚上|

@@ -20,142 +20,38 @@ tags:
 
 參考網站：[http://genius.com/Wolf-alice-moaning-lisa-smile-lyrics](http://genius.com/Wolf-alice-moaning-lisa-smile-lyrics)
 
-<table align="center" border="0" cellpadding="1" cellspacing="1">
-		<tr>
-			<td>[Intro]</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Verse 1]</td>
-		</tr>
-		<tr>
-			<td>She needs a lover to escape her father and mother</td>
-			<td>她需要一位愛人將她帶離她的父母</td>
-		</tr>
-		<tr>
-			<td>She hopes for some other way out of the hole</td>
-			<td>她希望找到其他辦法脫離這個深淵</td>
-		</tr>
-		<tr>
-			<td>She's over achieving, chasing her dreams</td>
-			<td>她努力用功、追尋夢想</td>
-		</tr>
-		<tr>
-			<td>And coming down slowly, yeah it's out of control</td>
-			<td>她慢慢感到心灰意冷，是呀，一切都失控了</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Chorus]</td>
-		</tr>
-		<tr>
-			<td>A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh</td>
-			<td>啊啊啊啊啊啊啊啊啊啊啊啊啊啊</td>
-		</tr>
-		<tr>
-			<td>Scrap the blues if the blues don't work</td>
-			<td>如果藍調沒用，乾脆把它丟掉</td>
-		</tr>
-		<tr>
-			<td>Flash your teeth though the inside hurts</td>
-			<td>儘管內心受傷也要露齒微笑</td>
-		</tr>
-		<tr>
-			<td>A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh</td>
-			<td>啊啊啊啊啊啊啊啊啊啊啊啊啊啊</td>
-		</tr>
-		<tr>
-			<td>Scrap the blues if the blues don't work</td>
-			<td>如果藍調沒用，乾脆把它丟掉</td>
-		</tr>
-		<tr>
-			<td>Doesn't make you feel better, just makes others feel worse</td>
-			<td>不會讓你感到開心，只會讓別人感到難過</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Verse 2]</td>
-		</tr>
-		<tr>
-			<td>All in the books and all in her blood</td>
-			<td>全都寫在書本裡、留在她的血液裡</td>
-		</tr>
-		<tr>
-			<td>And nowhere to run, cause it's out of control</td>
-			<td>無處可跑，因為一切都失控了</td>
-		</tr>
-		<tr>
-			<td>You wait for something to undo these feelings</td>
-			<td>你等待著某事發生來平復心情</td>
-		</tr>
-		<tr>
-			<td>Waiting and waiting but it's out of control</td>
-			<td>等呀、等呀、但是一切都失控了</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Chorus]</td>
-		</tr>
-		<tr>
-			<td>A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh</td>
-			<td>啊啊啊啊啊啊啊啊啊啊啊啊啊啊</td>
-		</tr>
-		<tr>
-			<td>Scrap the blues if the blues don't work</td>
-			<td>如果藍調沒用，乾脆把它丟掉</td>
-		</tr>
-		<tr>
-			<td>Flash your teeth though the inside hurts</td>
-			<td>儘管內心受傷也要露齒微笑</td>
-		</tr>
-		<tr>
-			<td>A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh</td>
-			<td>啊啊啊啊啊啊啊啊啊啊啊啊啊啊</td>
-		</tr>
-		<tr>
-			<td>Scrap the blues if the blues don't work</td>
-			<td>如果藍調沒用，乾脆把它丟掉</td>
-		</tr>
-		<tr>
-			<td>Doesn't make you feel better, just makes others feel worse</td>
-			<td>不會讓你感到開心，只會讓別人感到難過</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Guitar Solo]</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Outro]</td>
-		</tr>
-		<tr>
-			<td>A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh</td>
-			<td>啊啊啊啊啊啊啊啊啊啊啊啊啊啊</td>
-		</tr>
-		<tr>
-			<td>A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh</td>
-			<td>啊啊啊啊啊啊啊啊啊啊啊啊啊啊</td>
-		</tr>
-		<tr>
-			<td>It never is enough</td>
-			<td>永遠都不夠</td>
-		</tr>
-		<tr>
-			<td>No, it never is enough</td>
-			<td>不，永遠都不夠</td>
-		</tr>
-		<tr>
-			<td>It never is enough</td>
-			<td>永遠都不夠</td>
-		</tr>
-		<tr>
-			<td>No, it never is enough</td>
-			<td>不，永遠都不夠</td>
-		</tr>
-</table>
+|Lyrics|歌詞|
+|:-|:-|
+|[Intro]||
+|[Verse 1]||
+|She needs a lover to escape her father and mother|她需要一位愛人將她帶離她的父母|
+|She hopes for some other way out of the hole|她希望找到其他辦法脫離這個深淵|
+|She's over achieving, chasing her dreams|她努力用功、追尋夢想|
+|And coming down slowly, yeah it's out of control|她慢慢感到心灰意冷，是呀，一切都失控了|
+|[Chorus]||
+|A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh|啊啊啊啊啊啊啊啊啊啊啊啊啊啊|
+|Scrap the blues if the blues don't work|如果藍調沒用，乾脆把它丟掉|
+|Flash your teeth though the inside hurts|儘管內心受傷也要露齒微笑|
+|A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh|啊啊啊啊啊啊啊啊啊啊啊啊啊啊|
+|Scrap the blues if the blues don't work|如果藍調沒用，乾脆把它丟掉|
+|Doesn't make you feel better, just makes others feel worse|不會讓你感到開心，只會讓別人感到難過|
+|[Verse 2]||
+|All in the books and all in her blood|全都寫在書本裡、留在她的血液裡|
+|And nowhere to run, cause it's out of control|無處可跑，因為一切都失控了|
+|You wait for something to undo these feelings|你等待著某事發生來平復心情|
+|Waiting and waiting but it's out of control|等呀、等呀、但是一切都失控了|
+|[Chorus]||
+|A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh|啊啊啊啊啊啊啊啊啊啊啊啊啊啊|
+|Scrap the blues if the blues don't work|如果藍調沒用，乾脆把它丟掉|
+|Flash your teeth though the inside hurts|儘管內心受傷也要露齒微笑|
+|A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh|啊啊啊啊啊啊啊啊啊啊啊啊啊啊|
+|Scrap the blues if the blues don't work|如果藍調沒用，乾脆把它丟掉|
+|Doesn't make you feel better, just makes others feel worse|不會讓你感到開心，只會讓別人感到難過|
+|[Guitar Solo]||
+|[Outro]||
+|A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh|啊啊啊啊啊啊啊啊啊啊啊啊啊啊|
+|A-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ah-ahh|啊啊啊啊啊啊啊啊啊啊啊啊啊啊|
+|It never is enough|永遠都不夠|
+|No, it never is enough|不，永遠都不夠|
+|It never is enough|永遠都不夠|
+|No, it never is enough|不，永遠都不夠|

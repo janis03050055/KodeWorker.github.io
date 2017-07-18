@@ -28,562 +28,143 @@ tags:
 
 參考網站：[http://genius.com/Die-antwoord-daddy-lyrics](http://genius.com/Die-antwoord-daddy-lyrics)
 
-<table align="center" border="0" cellpadding="1" cellspacing="1">
-		<tr>
-			<td>[Hook 1: Yolandi]</td>
-		</tr>
-		<tr>
-			<td>Daddy, daddy, please buy me a sweet</td>
-			<td>爹地、爹地、拜託買糖果給窩</td>
-		</tr>
-		<tr>
-			<td>I know you got money</td>
-			<td>窩知道尼有淺錢</td>
-		</tr>
-		<tr>
-			<td>I want that big chocolate bunny</td>
-			<td>我要那個大巧克力兔兔</td>
-		</tr>
-		<tr>
-			<td>填飽窩幹你娘的肚肚</td>
-		</tr>
-		<tr>
-			<td>Come on daddy, buy me that chocolate</td>
-			<td>拜託爹地，買給窩巧克力-</td>
-		</tr>
-		<tr>
-			<td>Bunny, I know you got money</td>
-			<td>-兔，窩知道尼有淺錢</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it, I want it</td>
-			<td>窩想要，窩想要，窩想要</td>
-		</tr>
-		<tr>
-			<td>I want it, you'll give it to me!</td>
-			<td>窩想要，尼要買給窩辣！</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Verse 1: Ninja]</td>
-		</tr>
-		<tr>
-			<td>Yo, uh, baby girl like rap</td>
-			<td>呦，噢，寶貝女孩喜歡饒舌</td>
-		</tr>
-		<tr>
-			<td>Baby girl like fun</td>
-			<td>寶貝女孩喜歡享樂</td>
-		</tr>
-		<tr>
-			<td>Baby girl forgot to wear panties</td>
-			<td>寶貝女孩忘了穿內褲</td>
-		</tr>
-		<tr>
-			<td>So I smacked her on the bum bum</td>
-			<td>所以我要打她的屁屁</td>
-		</tr>
-		<tr>
-			<td>Baby girl love her daddy</td>
-			<td>把被女孩愛他的爹地</td>
-		</tr>
-		<tr>
-			<td>Daddy, he play rough</td>
-			<td>爹地，牠很粗暴</td>
-		</tr>
-		<tr>
-			<td>And daddy like to make his baby girl</td>
-			<td>而且牠會命令牠的寶貝女孩</td>
-		</tr>
-		<tr>
-			<td>Do unusual stuff</td>
-			<td>做奇怪的事</td>
-		</tr>
-		<tr>
-			<td>Baby girl turn around</td>
-			<td>寶貝女孩轉過身</td>
-		</tr>
-		<tr>
-			<td>Now take off all of your clothes</td>
-			<td>現在脫掉你全部的衣服</td>
-		</tr>
-		<tr>
-			<td>There you go, thats a good girl</td>
-			<td>對了，這樣才是個好女孩</td>
-		</tr>
-		<tr>
-			<td>Now let me see you touch your toes</td>
-			<td>現在讓我看看你能不能碰到腳趾</td>
-		</tr>
-		<tr>
-			<td>Daddy pop champagne</td>
-			<td>爹地打開香檳</td>
-		</tr>
-		<tr>
-			<td>While he spark that blunt</td>
-			<td>當牠正點著大麻捲</td>
-		</tr>
-		<tr>
-			<td>Now come sit here on daddy's lap</td>
-			<td>現在過來坐到爹地的大腿上</td>
-		</tr>
-		<tr>
-			<td>And tell daddy what you want</td>
-			<td>來跟爹地說你想要什麼</td>
-		</tr>
-		<tr>
-			<td>[Pre-Hook: Ninja]</td>
-		</tr>
-		<tr>
-			<td>Don't worry about a thing, fuck the world</td>
-			<td>不要擔心一切，操他媽的世界</td>
-		</tr>
-		<tr>
-			<td>We just stay in bed all day</td>
-			<td>我們一整天只須待在床上</td>
-		</tr>
-		<tr>
-			<td>Daddy got game, daddy brought it</td>
-			<td>爹地很有料，爹地一路從-</td>
-		</tr>
-		<tr>
-			<td>From Africa to LA</td>
-			<td>-非洲買到洛杉磯</td>
-		</tr>
-		<tr>
-			<td>I could be your daddy</td>
-			<td>我可以當你的爹地</td>
-		</tr>
-		<tr>
-			<td>Make everything okay</td>
-			<td>任何事情都可以</td>
-		</tr>
-		<tr>
-			<td>Shut the fuck up, be a good girl</td>
-			<td>只要他媽閉嘴，當個好女孩</td>
-		</tr>
-		<tr>
-			<td>And do what daddy say</td>
-			<td>乖乖做爹地叫你做的事</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Hook 2: Yolandi]</td>
-		</tr>
-		<tr>
-			<td>Daddy, daddy, please can you buy me</td>
-			<td>爹地、爹地、拜託可以買給窩-</td>
-		</tr>
-		<tr>
-			<td>Those funky pyjamas</td>
-			<td>-那些他媽的睡衣嗎</td>
-		</tr>
-		<tr>
-			<td>The cool baby blue pyjamas</td>
-			<td>酷炫寶寶藍色睡衣</td>
-		</tr>
-		<tr>
-			<td>With the big yellow bananas</td>
-			<td>上面印有大大的黃色香蕉</td>
-		</tr>
-		<tr>
-			<td>Come on, daddy, buy me</td>
-			<td>拜託爹地，買給窩</td>
-		</tr>
-		<tr>
-			<td>Those pyjamas, they fucking bananas</td>
-			<td>那些睡衣，它們他媽的發瘋惹</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it, I want it</td>
-			<td>窩想要，窩想要，窩想要</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it jesus!</td>
-			<td>窩想要，窩想要啦，天公伯啊！</td>
-		</tr>
-		<tr>
-			<td>Daddy, daddy please buy me</td>
-			<td>爹地、爹地、拜託買給窩</td>
-		</tr>
-		<tr>
-			<td>Those sneaks, I know you got money</td>
-			<td>那雙運動鞋，窩知道尼有淺錢</td>
-		</tr>
-		<tr>
-			<td>The yellow ones you're getting me</td>
-			<td>尼要買給窩黃色的那雙辣</td>
-		</tr>
-		<tr>
-			<td>The Michael Jordan 23</td>
-			<td>麥可喬丹 23</td>
-		</tr>
-		<tr>
-			<td>They just came out of NYC</td>
-			<td>剛在紐約市發售</td>
-		</tr>
-		<tr>
-			<td>Come on, daddy, you got money</td>
-			<td>拜託，爹地，尼有錢辣</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it, I want it</td>
-			<td>窩想要，窩想要，窩想要</td>
-		</tr>
-		<tr>
-			<td>I want it, you'll give it to me!</td>
-			<td>窩想要，尼要買給窩辣！</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Verse 2: Ninja]</td>
-		</tr>
-		<tr>
-			<td>Uh, daddy he rap good</td>
-			<td>噢，爹地他饒舌的很讚</td>
-		</tr>
-		<tr>
-			<td>Daddy he get paid</td>
-			<td>爹地他很賺</td>
-		</tr>
-		<tr>
-			<td>Daddy takes his little angel</td>
-			<td>爹地帶著他的小天使</td>
-		</tr>
-		<tr>
-			<td>On a magical holiday</td>
-			<td>去度上一個奇幻假期</td>
-		</tr>
-		<tr>
-			<td>Daddy rocking his speedo</td>
-			<td>爹地炫著他的緊身泳衣</td>
-		</tr>
-		<tr>
-			<td>Baby rock a teenie meenie</td>
-			<td>寶貝穿著一件小小小小的-</td>
-		</tr>
-		<tr>
-			<td>Dongadongdongdong</td>
-			<td>丁字丁字丁字丁字褲</td>
-		</tr>
-		<tr>
-			<td>The yellow polka dot bikini</td>
-			<td>黃色圓點比基尼</td>
-		</tr>
-		<tr>
-			<td>Daddy kicking fucking back</td>
-			<td>爹地他媽的放鬆</td>
-		</tr>
-		<tr>
-			<td>Chillin' by the ocean</td>
-			<td>在海邊納涼</td>
-		</tr>
-		<tr>
-			<td>Daddy's little girl smiling</td>
-			<td>爹地的小女孩癡癡笑</td>
-		</tr>
-		<tr>
-			<td>While I'm out swimming with the dolphins</td>
-			<td>當我正在跟海豚游泳的時候</td>
-		</tr>
-		<tr>
-			<td>Holla at the waiter</td>
-			<td>問候服務生說：</td>
-		</tr>
-		<tr>
-			<td>Can I get a sex on the beach?</td>
-			<td>我可以在海灘上做愛嗎？</td>
-		</tr>
-		<tr>
-			<td>Baby girl want an orgasm</td>
-			<td>寶貝女孩想要高潮</td>
-		</tr>
-		<tr>
-			<td>Yo baby, where's your ID?</td>
-			<td>呦寶貝，你的身分證在哪？</td>
-		</tr>
-		<tr>
-			<td>[Pre-Hook: Ninja]</td>
-		</tr>
-		<tr>
-			<td>Don't worry about a thing, fuck the world</td>
-			<td>不要擔心一切，操他媽的世界</td>
-		</tr>
-		<tr>
-			<td>We just stay in bed all day</td>
-			<td>我們一整天只須待在床上</td>
-		</tr>
-		<tr>
-			<td>Daddy got game, daddy brought it</td>
-			<td>爹地很有料，爹地一路從-</td>
-		</tr>
-		<tr>
-			<td>From Africa to LA</td>
-			<td>-非洲買到洛杉磯</td>
-		</tr>
-		<tr>
-			<td>I could be your daddy</td>
-			<td>我可以當你的爹地</td>
-		</tr>
-		<tr>
-			<td>Make everything okay</td>
-			<td>任何事情都可以</td>
-		</tr>
-		<tr>
-			<td>Shut the fuck up, be a good girl</td>
-			<td>只要他媽閉嘴，當個好女孩</td>
-		</tr>
-		<tr>
-			<td>And do what daddy say</td>
-			<td>乖乖做爹地叫你做的事</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Hook 3: Yolandi]</td>
-		</tr>
-		<tr>
-			<td>Daddy, daddy, please buy me a puppy</td>
-			<td>爹地，爹地，拜託賣小狗勾給窩</td>
-		</tr>
-		<tr>
-			<td>Come on, you'll get it for me</td>
-			<td>拜託，尼會買給窩辣</td>
-		</tr>
-		<tr>
-			<td>If you really love me</td>
-			<td>如果尼真的愛窩的話</td>
-		</tr>
-		<tr>
-			<td>I want a puppy so badly</td>
-			<td>窩真的超想要一隻小狗勾的</td>
-		</tr>
-		<tr>
-			<td>Come on daddy, buy me a puppy please</td>
-			<td>拜託爹地，拜託買小狗勾給窩</td>
-		</tr>
-		<tr>
-			<td>You'll make me so happy</td>
-			<td>尼會讓窩潮開腥的</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it, I want it</td>
-			<td>窩想要，窩想要，窩想要</td>
-		</tr>
-		<tr>
-			<td>I want it, you'll give it to me!</td>
-			<td>窩想要，尼要買給窩辣！</td>
-		</tr>
-		<tr>
-			<td>Daddy, daddy please buy me</td>
-			<td>爹地，爹地，拜託買給窩-</td>
-		</tr>
-		<tr>
-			<td>A phone in case emergency</td>
-			<td>一支手機以備警急狀況</td>
-		</tr>
-		<tr>
-			<td>You'll probably get a hold of me</td>
-			<td>尼大概會直接找到窩</td>
-		</tr>
-		<tr>
-			<td>I want to have a phone on me</td>
-			<td>窩就是想要一支手機辣</td>
-		</tr>
-		<tr>
-			<td>Now I don't want the cheap one, daddy</td>
-			<td>現在窩不要便宜貨，爹地</td>
-		</tr>
-		<tr>
-			<td>I want the big one</td>
-			<td>窩要大支的</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it, I want it</td>
-			<td>窩想要，窩想要，窩想要</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it daddy!</td>
-			<td>窩想要，窩想要辣爹地</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Bridge: Yolandi]</td>
-		</tr>
-		<tr>
-			<td>I, I, I, I, I love you</td>
-			<td>窩，窩，窩，窩，窩愛尼</td>
-		</tr>
-		<tr>
-			<td>I, I, I, I, I love you, daddy</td>
-			<td>窩，窩，窩，窩，窩愛尼爹地</td>
-		</tr>
-		<tr>
-			<td>I, I, I, I, I love you</td>
-			<td>窩，窩，窩，窩，窩愛尼</td>
-		</tr>
-		<tr>
-			<td>I, I, I, I, I love you, daddy</td>
-			<td>窩，窩，窩，窩，窩愛尼爹地</td>
-		</tr>
-		<tr>
-			<td>Your daddy won't even let you say fuck</td>
-			<td>尼把拔不會讓尼縮『幹』</td>
-		</tr>
-		<tr>
-			<td>Your daddy's boring, your daddy sucks</td>
-			<td>尼把拔無聊，尼把拔爛</td>
-		</tr>
-		<tr>
-			<td>Your daddy's a poes, your daddy's kak!</td>
-			<td>尼把拔娘泡，尼把拔賽！</td>
-		</tr>
-		<tr>
-			<td>My daddy will fuck your daddy up!</td>
-			<td>窩把拔會把尼把拔幹！</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Pre-Hook: Ninja]</td>
-		</tr>
-		<tr>
-			<td>Don't worry about a thing, fuck the world</td>
-			<td>不要擔心一切，操他媽的世界</td>
-		</tr>
-		<tr>
-			<td>We just stay in bed all day</td>
-			<td>我們一整天只須待在床上</td>
-		</tr>
-		<tr>
-			<td>Daddy got game, daddy brought it</td>
-			<td>爹地很有料，爹地一路從-</td>
-		</tr>
-		<tr>
-			<td>From Africa to LA</td>
-			<td>-非洲買到洛杉磯</td>
-		</tr>
-		<tr>
-			<td>I could be your daddy</td>
-			<td>我可以當你的爹地</td>
-		</tr>
-		<tr>
-			<td>Make everything okay</td>
-			<td>任何事情都可以</td>
-		</tr>
-		<tr>
-			<td>Shut the fuck up, be a good girl</td>
-			<td>只要他媽閉嘴，當個好女孩</td>
-		</tr>
-		<tr>
-			<td>And do what daddy say</td>
-			<td>乖乖做爹地叫你做的事</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Hook 4: Yolandi]</td>
-		</tr>
-		<tr>
-			<td>Daddy, daddy, please can you</td>
-			<td>爹地，爹地，拜託可以-</td>
-		</tr>
-		<tr>
-			<td>Buy me a big flat screen TV</td>
-			<td>-買給窩大大的平面電視嗎</td>
-		</tr>
-		<tr>
-			<td>I want to watch all my movies</td>
-			<td>窩想看全部的電影</td>
-		</tr>
-		<tr>
-			<td>And my cartoonies in 3D</td>
-			<td>還有卡通，全3D的呦</td>
-		</tr>
-		<tr>
-			<td>No, not the little cheap one</td>
-			<td>不，不要那個又小又便宜的</td>
-		</tr>
-		<tr>
-			<td>Daddy, I want the big one</td>
-			<td>爹地，窩要大大的</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it, I want it</td>
-			<td>窩想要，窩想要，窩想要</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it daddy!</td>
-			<td>窩想要，窩想要辣爹地！</td>
-		</tr>
-		<tr>
-			<td>Daddy, daddy please buy me a car</td>
-			<td>爹地，爹地，拜託買給窩一輛車車</td>
-		</tr>
-		<tr>
-			<td>I know you got money</td>
-			<td>窩知道尼有淺錢</td>
-		</tr>
-		<tr>
-			<td>Come on daddy get it for me</td>
-			<td>拜託爹地買給窩辣</td>
-		</tr>
-		<tr>
-			<td>I want a black Lamborghini</td>
-			<td>我要黑色藍寶堅尼</td>
-		</tr>
-		<tr>
-			<td>A matte black</td>
-			<td>消光黑</td>
-		</tr>
-		<tr>
-			<td>L A M B to the O</td>
-			<td>ㄌ→ㄢ→藍→ㄅ→ㄠ→寶</td>
-		</tr>
-		<tr>
-			<td>I want it, I want it, I want it</td>
-			<td>窩想要，窩想要，窩想要</td>
-		</tr>
-		<tr>
-			<td>Please, daddy-o!</td>
-			<td>拜託辣，爹地呦！</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Bridge: Yolandi]</td>
-		</tr>
-		<tr>
-			<td>I, I, I love you</td>
-			<td>窩，窩，窩，窩，窩愛尼</td>
-		</tr>
-		<tr>
-			<td>I, I, I love you daddy</td>
-			<td>窩，窩，窩，窩，窩愛尼爹地</td>
-		</tr>
-		<tr>
-			<td>I, I, I love you</td>
-			<td>窩，窩，窩，窩，窩愛尼</td>
-		</tr>
-		<tr>
-			<td>I, I, I love you daddy</td>
-			<td>窩，窩，窩，窩，窩愛尼爹地</td>
-		</tr>
-		<tr>
-			<td>(Hi Tek)</td>
-		</tr>
-		<tr>
-			<td>I love you</td>
-			<td>窩愛尼</td>
-		</tr>
-		<tr>
-			<td>I love you daddy</td>
-			<td>窩愛尼，爹地</td>
-		</tr>
-		<tr>
-		</tr>
-</table>
+|Lyrics|歌詞|
+|:-|:-|
+|[Hook 1: Yolandi]||
+|Daddy, daddy, please buy me a sweet|爹地、爹地、拜託買糖果給窩|
+|I know you got money|窩知道尼有淺錢|
+|I want that big chocolate bunny|我要那個大巧克力兔兔|
+|In my mother-fucking tummy|填飽窩幹你娘的肚肚|
+|Come on daddy, buy me that chocolate|拜託爹地，買給窩巧克力-|
+|Bunny, I know you got money|-兔，窩知道尼有淺錢|
+|I want it, I want it, I want it|窩想要，窩想要，窩想要|
+|I want it, you'll give it to me!|窩想要，尼要買給窩辣！|
+|[Verse 1: Ninja]||
+|Yo, uh, baby girl like rap|呦，噢，寶貝女孩喜歡饒舌|
+|Baby girl like fun|寶貝女孩喜歡享樂|
+|Baby girl forgot to wear panties|寶貝女孩忘了穿內褲|
+|So I smacked her on the bum bum|所以我要打她的屁屁|
+|Baby girl love her daddy|把被女孩愛他的爹地|
+|Daddy, he play rough|爹地，牠很粗暴|
+|And daddy like to make his baby girl|而且牠會命令牠的寶貝女孩|
+|Do unusual stuff|做奇怪的事|
+|Baby girl turn around|寶貝女孩轉過身|
+|Now take off all of your clothes|現在脫掉你全部的衣服|
+|There you go, thats a good girl|對了，這樣才是個好女孩|
+|Now let me see you touch your toes|現在讓我看看你能不能碰到腳趾|
+|Daddy pop champagne|爹地打開香檳|
+|While he spark that blunt|當牠正點著大麻捲|
+|Now come sit here on daddy's lap|現在過來坐到爹地的大腿上|
+|And tell daddy what you want|來跟爹地說你想要什麼|
+|[Pre-Hook: Ninja]||
+|Don't worry about a thing, fuck the world|不要擔心一切，操他媽的世界|
+|We just stay in bed all day|我們一整天只須待在床上|
+|Daddy got game, daddy brought it|爹地很有料，爹地一路從-|
+|From Africa to LA|-非洲買到洛杉磯|
+|I could be your daddy|我可以當你的爹地|
+|Make everything okay|任何事情都可以|
+|Shut the fuck up, be a good girl|只要他媽閉嘴，當個好女孩|
+|And do what daddy say|乖乖做爹地叫你做的事|
+|[Hook 2: Yolandi]||
+|Daddy, daddy, please can you buy me|爹地、爹地、拜託可以買給窩-|
+|Those funky pyjamas|-那些時髦的睡衣嗎|
+|The cool baby blue pyjamas|酷炫寶寶藍色睡衣|
+|With the big yellow bananas|上面印有大大的黃色香蕉|
+|Come on, daddy, buy me|拜託爹地，買給窩|
+|Those pyjamas, they fucking bananas|那些睡衣，它們他媽的發瘋惹|
+|I want it, I want it, I want it|窩想要，窩想要，窩想要|
+|I want it, I want it jesus!|窩想要，窩想要啦，天公伯啊！|
+|Daddy, daddy please buy me|爹地、爹地、拜託買給窩|
+|Those sneaks, I know you got money|那雙運動鞋，窩知道尼有淺錢|
+|The yellow ones you're getting me|尼要買給窩黃色的那雙辣|
+|The Michael Jordan 23|麥可喬丹 23|
+|They just came out of NYC|剛在紐約發售|
+|Come on, daddy, you got money|拜託，爹地，尼有錢辣|
+|I want it, I want it, I want it|窩想要，窩想要，窩想要|
+|I want it, you'll give it to me!|窩想要，尼要買給窩辣！|
+|[Verse 2: Ninja]||
+|Uh, daddy he rap good|噢，爹地他饒舌的很讚|
+|Daddy he get paid|爹地他很賺|
+|Daddy takes his little angel|爹地帶著他的小天使|
+|On a magical holiday|去度上一個奇幻假期|
+|Daddy rocking his speedo|爹地炫著他的緊身泳衣|
+|Baby rock a teenie meenie|寶貝穿著一件小小小小的-|
+|Dongadongdongdong|丁字丁字丁字丁字褲|
+|The yellow polka dot bikini|黃色圓點比基尼|
+|Daddy kicking fucking back|爹地他媽的放鬆|
+|Chillin' by the ocean|在海邊納涼|
+|Daddy's little girl smiling|爹地的小女孩癡癡笑|
+|While I'm out swimming with the dolphins|當我正在跟海豚游泳的時候|
+|Holla at the waiter|問候服務生說：|
+|Can I get a sex on the beach?|我可以在海灘上做愛嗎？|
+|Baby girl want an orgasm|寶貝女孩想要高潮|
+|Yo baby, where's your ID?|呦寶貝，你的身分證在哪？|
+|[Pre-Hook: Ninja]||
+|Don't worry about a thing, fuck the world|不要擔心一切，操他媽的世界|
+|We just stay in bed all day|我們一整天只須待在床上|
+|Daddy got game, daddy brought it|爹地很有料，爹地一路從-|
+|From Africa to LA|-非洲買到洛杉磯|
+|I could be your daddy|我可以當你的爹地|
+|Make everything okay|任何事情都可以|
+|Shut the fuck up, be a good girl|只要他媽閉嘴，當個好女孩|
+|And do what daddy say|乖乖做爹地叫你做的事|
+|[Hook 3: Yolandi]||
+|Daddy, daddy, please buy me a puppy|爹地，爹地，拜託賣小狗勾給窩|
+|Come on, you'll get it for me|拜託，尼會買給窩辣|
+|If you really love me|如果尼真的愛窩的話|
+|I want a puppy so badly|窩真的超想要一隻小狗勾的|
+|Come on daddy, buy me a puppy please|拜託爹地，拜託買小狗勾給窩|
+|You'll make me so happy|尼會讓窩潮開腥的|
+|I want it, I want it, I want it|窩想要，窩想要，窩想要|
+|I want it, you'll give it to me!|窩想要，尼要買給窩辣！|
+|Daddy, daddy please buy me|爹地，爹地，拜託買給窩-|
+|A phone in case emergency|一支手機以備警急狀況|
+|You'll probably get a hold of me|尼大概會直接找到窩|
+|I want to have a phone on me|窩就是想要一支手機辣|
+|Now I don't want the cheap one, daddy|現在窩不要便宜貨，爹地|
+|I want the big one|窩要大支的|
+|I want it, I want it, I want it|窩想要，窩想要，窩想要|
+|I want it, I want it daddy!|窩想要，窩想要辣爹地|
+|[Bridge: Yolandi]||
+|I, I, I, I, I love you|窩，窩，窩，窩，窩愛尼|
+|I, I, I, I, I love you, daddy|窩，窩，窩，窩，窩愛尼爹地|
+|I, I, I, I, I love you|窩，窩，窩，窩，窩愛尼|
+|I, I, I, I, I love you, daddy|窩，窩，窩，窩，窩愛尼爹地|
+|Your daddy won't even let you say fuck|尼把拔不會讓尼縮『幹』|
+|Your daddy's boring, your daddy sucks|尼把拔無聊，尼把拔爛|
+|Your daddy's a poes, your daddy's kak!|尼把拔娘泡，尼把拔賽！|
+|My daddy will fuck your daddy up!|窩把拔會把尼把拔幹！|
+|[Pre-Hook: Ninja]||
+|Don't worry about a thing, fuck the world|不要擔心一切，操他媽的世界|
+|We just stay in bed all day|我們一整天只須待在床上|
+|Daddy got game, daddy brought it|爹地很有料，爹地一路從-|
+|From Africa to LA|-非洲買到洛杉磯|
+|I could be your daddy|我可以當你的爹地|
+|Make everything okay|任何事情都可以|
+|Shut the fuck up, be a good girl|只要他媽閉嘴，當個好女孩|
+|And do what daddy say|乖乖做爹地叫你做的事|
+|[Hook 4: Yolandi]||
+|Daddy, daddy, please can you|爹地，爹地，拜託可以-|
+|Buy me a big flat screen TV|-買給窩大大的平面電視嗎|
+|I want to watch all my movies|窩想看全部的電影|
+|And my cartoonies in 3D|還有卡通，全3D的呦|
+|No, not the little cheap one|不，不要那個又小又便宜的|
+|Daddy, I want the big one|爹地，窩要大大的|
+|I want it, I want it, I want it|窩想要，窩想要，窩想要|
+|I want it, I want it daddy!|窩想要，窩想要辣爹地！|
+|Daddy, daddy please buy me a car|爹地，爹地，拜託買給窩一輛車車|
+|I know you got money|窩知道尼有淺錢|
+|Come on daddy get it for me|拜託爹地買給窩辣|
+|I want a black Lamborghini|我要黑色藍寶堅尼|
+|A matte black|消光黑|
+|L A M B to the O|ㄌ→ㄢ→藍→ㄅ→ㄠ→寶|
+|I want it, I want it, I want it|窩想要，窩想要，窩想要|
+|Please, daddy-o!|拜託辣，爹地呦！|
+|[Bridge: Yolandi]||
+|I, I, I, I, I love you|窩，窩，窩，窩，窩愛尼|
+|I, I, I, I, I love you, daddy|窩，窩，窩，窩，窩愛尼爹地|
+|I, I, I, I, I love you|窩，窩，窩，窩，窩愛尼|
+|I, I, I, I, I love you, daddy|窩，窩，窩，窩，窩愛尼爹地|
+|(Hi Tek)||
+|I love you|窩愛尼|
+|I love you daddy|窩愛尼，爹地|

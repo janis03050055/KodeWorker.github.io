@@ -16,123 +16,38 @@ tags:
 
 <p style="text-align: center;"><iframe allowfullscreen="" class="" frameborder="0" height="315" src="https://www.youtube.com/embed/L4sbDxR22z4?wmode=transparent" width="560"></iframe></p>
 
-這首歌的翻譯我一整個隨性（隨便？！），見笑囉。</p><p>參考網站：[https://genius.com/Cigarettes-after-sex-k-lyrics](https://genius.com/Cigarettes-after-sex-k-lyrics)
+這首歌的翻譯我一整個隨性（隨便？！），見笑囉。
+(後記：我比較認同參考網站上寫的是對炮友產生情愫，而非貌合神離的男女朋友。更新@2017/07/18)
 
-<table align="center" border="0" cellpadding="1" cellspacing="1">
-		<tr>
-			<td>[Verse 1]</td>
-		</tr>
-		<tr>
-			<td>I remember when I first noticed that you liked me back</td>
-			<td>我記得當我第一次注意到你期待著我的歸來</td>
-		</tr>
-		<tr>
-			<td>We were sitting down in a restaurant waiting for the check</td>
-			<td>我們坐在餐廳裡等待帳單送來</td>
-		</tr>
-		<tr>
-			<td>We had made love earlier that day with no strings attached</td>
-			<td>更早之前我們一絲不掛的做愛</td>
-		</tr>
-		<tr>
-			<td>But I could tell that something had changed how you looked at me then</td>
-			<td>但是從當時你注視我的眼神裡，我發現有些改變</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Chorus]</td>
-		</tr>
-		<tr>
-			<td>Kristen, come right back</td>
-			<td>克莉絲汀，快回來</td>
-		</tr>
-		<tr>
-			<td>I've been waiting for you to slip back in bed</td>
-			<td>我一直在等妳，溜回被窩裡</td>
-		</tr>
-		<tr>
-			<td>When you light the candle</td>
-			<td>當你點完蠟燭</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Verse 2]</td>
-		</tr>
-		<tr>
-			<td>And on the Lower East Side you're dancing with me now</td>
-			<td>在下東城區你正與我翩翩起舞</td>
-		</tr>
-		<tr>
-			<td>And I'm taking pictures of you with flowers on the wall</td>
-			<td>我談論著你的照片掛在這鮮花點綴的牆上</td>
-		</tr>
-		<tr>
-			<td>Think I like you best when you're dressed in black from head to toe</td>
-			<td>我認為你一身從頭到腳的黑色裝束美極了</td>
-		</tr>
-		<tr>
-			<td>Think I like you best when you're just with me</td>
-			<td>我認為你只陪伴在我身邊時候美極了</td>
-		</tr>
-		<tr>
-			<td>And no one else...</td>
-			<td>不再有其他的人</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Chorus]</td>
-		</tr>
-		<tr>
-			<td>Kristen, come right back</td>
-			<td>克莉絲汀，快回來</td>
-		</tr>
-		<tr>
-			<td>I've been waiting for you to slip back in bed</td>
-			<td>我一直在等妳，溜回被窩裡</td>
-		</tr>
-		<tr>
-			<td>When you light the candle</td>
-			<td>當你點完蠟燭</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Verse 3]</td>
-		</tr>
-		<tr>
-			<td>And I'm kissing you lying in my room</td>
-			<td>我親吻著躺在我房間的妳</td>
-		</tr>
-		<tr>
-			<td>Holding you until you fall asleep</td>
-			<td>擁在懷中直到你入睡</td>
-		</tr>
-		<tr>
-			<td>And it's just as good as I knew it would be</td>
-			<td>正如我想的一般美好</td>
-		</tr>
-		<tr>
-			<td>Stay with me I don't want you to leave...</td>
-			<td>待在我身邊，不想要妳離去...</td>
-		</tr>
-		<tr>
-		</tr>
-		<tr>
-			<td>[Chorus]</td>
-		</tr>
-		<tr>
-			<td>Kristen, come right back</td>
-			<td>克莉絲汀，快回來</td>
-		</tr>
-		<tr>
-			<td>I've been waiting for you to slip back in bed</td>
-			<td>我一直在等妳，溜回被窩裡</td>
-		</tr>
-		<tr>
-			<td>When you light the candle</td>
-			<td>當你點完蠟燭</td>
-		</tr>
-</table>
+參考網站：[https://genius.com/Cigarettes-after-sex-k-lyrics](https://genius.com/Cigarettes-after-sex-k-lyrics)
+
+|Lyrics|歌詞|
+|:-|:-|
+|[Verse 1]||
+|I remember when I first noticed that you liked me back|我記得當我第一次注意到你期待著我的歸來|
+|We were sitting down in a restaurant waiting for the check|我們坐在餐廳裡等待帳單送來|
+|We had made love earlier that day with no strings attached|更早之前我們一絲不掛的做愛|
+|But I could tell that something had changed how you looked at me then|但是從當時你注視我的眼神裡，我發現有些改變|
+|[Chorus]||
+|Kristen, come right back|克莉絲汀，快回來|
+|I've been waiting for you to slip back in bed|我一直在等妳，溜回被窩裡|
+|When you light the candle|當你點完蠟燭|
+|[Verse 2]||
+|And on the Lower East Side you're dancing with me now|在下東城區你正與我翩翩起舞|
+|And I'm taking pictures of you with flowers on the wall|我談論著你的照片掛在這鮮花點綴的牆上|
+|Think I like you best when you're dressed in black from head to toe|我認為你一身從頭到腳的黑色裝束美極了|
+|Think I like you best when you're just with me|我認為你只陪伴在我身邊時候美極了|
+|And no one else...|不再有其他的人|
+|[Chorus]||
+|Kristen, come right back|克莉絲汀，快回來|
+|I've been waiting for you to slip back in bed|我一直在等妳，溜回被窩裡|
+|When you light the candle|當你點完蠟燭|
+|[Verse 3]||
+|And I'm kissing you lying in my room|我親吻著躺在我房間的妳|
+|Holding you until you fall asleep|擁在懷中直到你入睡|
+|And it's just as good as I knew it would be|正如我想的一般美好|
+|Stay with me I don't want you to leave...|待在我身邊，不想要妳離去...|
+|[Chorus]||
+|Kristen, come right back|克莉絲汀，快回來|
+|I've been waiting for you to slip back in bed|我一直在等妳，溜回被窩裡|
+|When you light the candle|當你點完蠟燭|
