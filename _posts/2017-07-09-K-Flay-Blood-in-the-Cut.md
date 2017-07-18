@@ -13,8 +13,6 @@ tags:
 
 在莫名的機運下，又讓我聽到一首很特別的英文歌曲，饒舌歌手K. Flay的Blood in the Cut。這首歌是今年(2017年)才發表的，第一次在youtube隨機撥放聽到時不禁讓小魯一驚，稍微查了一下後發現她是名獨立饒舌歌手，而且還是個史丹佛大學的高材生呢！這首歌創作於創作於聖誕節的期間，一段感情的終結的孤寂與當時混亂的生活，都反映在她個歌詞中。明明這是一首在描述失戀少女內心的痛楚，但是在K. Flay輕快的饒舌以及重節奏的搭配下，失戀的感覺變得意外的率性瀟灑。雖說她是個饒舌歌手，但是曲風偏流行搖滾，歌詞內容偏有點EMO(tional，哈！)，所以很難硬給這首歌一個定位。
 
-{% include youtubePlayer.html id=k2WcOdz96ko %}
-
 <p style="text-align: center;"><iframe allowfullscreen="" class="" frameborder="0" height="315" src="https://www.youtube.com/embed/k2WcOdz96ko?wmode=transparent" width="560"></iframe></p>
 
 小弟還是魯魯的怒翻一波歌詞，詞不達意還請見諒。其中比較有趣的是kick it in這一個詞，在[Merriam-Webster](https://www.merriam-webster.com/dictionary/kick%20in)裡有個俚語解釋為〝死〞，判斷前後文的意境後，應該這個才是最佳解答吧。
