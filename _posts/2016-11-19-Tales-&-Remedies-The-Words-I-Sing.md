@@ -21,32 +21,36 @@ tags:
 
 |Lyrics|歌詞|
 |:-|:-|
+|[Verse 1]||
 |I go where|我前往|
 |The golden glints gather|充滿金光閃爍的地方|
 |I follow|我追尋|
 |Their lights and I whisper|它們的光芒並且低語|
+|[Chorus]||
 |The words I sing|我哼的歌詞|
 |Carry hope like spring|如春天般帶來希望|
 |I'm fed up with the gloomy, the dark and the grim|我受夠了陰沉、黑暗與憂鬱|
 |The words I sing|我哼的歌詞|
 |Carry hope like spring|如春天般帶來希望|
 |I wanna have the sun everyday on my skin|我想每天都有陽光灑在肌膚上|
-|---|---|
+|[Verse 2]||
 |They'll take me|他們將帶我|
 |To the borders of the world|到世界的邊緣|
 |Where the seas|那裡的海洋|
 |Fall in the Milky Way|墜入到銀河中|
+|[Chorus]||
 |The words I sing|我哼的歌詞|
 |Carry hope like spring|如春天般帶來希望|
 |I'm fed up with the gloomy, the dark and the grim|我受夠了陰沉、黑暗與憂鬱|
 |The words I sing|我哼的歌詞|
 |Carry hope like spring|如春天般帶來希望|
 |I wanna have the sun everyday on my skin|我想每天都有陽光灑在肌膚上|
-|---|---|
+|[Verse 3]||
 |I will kiss|我將親吻|
 |The sea drops in the air|飄在空中的浪花|
 |Should I jump?|我該跳嗎？|
 |Please just remember that …|只需記住...|
+|[Chorus]||
 |The words I sing|我哼的歌詞|
 |Carry hope like spring|如春天般帶來希望|
 |I'm fed up with the gloomy, the dark and the grim|我受夠了陰沉、黑暗與憂鬱|

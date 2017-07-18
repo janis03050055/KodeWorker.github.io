@@ -21,6 +21,7 @@ tags:
 
 |Lyrics|歌詞|
 |:-|:-|
+|[Verse 1]||
 |The boy I love’s got another girl|我深愛的男人愛上另一個女人|
 |He might be fucking her right now|他現在或許正在幹她|
 |I don’t have an apartment|我沒有住所|
@@ -32,12 +33,12 @@ tags:
 |Take my arm, break it in half|將我手臂，斷成兩截|
 |Say something, do it soon|快點說些什麼、做些什麼|
 |It’s too quiet in this room|房間裡充滿著寂寞|
-|===|===|
+|[Chorus]||
 |I need noise|我要噪音|
 |I need the buzz of a sub|我要揚聲器上的震動|
 |Need the crack of a whip|需要鞭子上的裂痕|
 |Need some blood in the cut|需要傷口裡的鮮血|
-|===|===|
+|[Verse 2]||
 |Met back up with the boy I love|重新與我深愛的男人見面|
 |Cried on the streets of San Francisco|在舊金山的大街上痛哭|
 |I don’t have an agenda|我沒有任何行程|
@@ -49,7 +50,7 @@ tags:
 |Break some bread for all my sins|分享聖餐並禱告我的罪過|
 |Say something, do it soon|快點說些什麼、做些什麼|
 |It’s too quiet in this room|房間裡充滿著寂寞|
-|===|===|
+|[Chorus]||
 |I need noise|我要噪音|
 |I need the buzz of a sub|我要揚聲器上的震動|
 |Need the crack of a whip|需要鞭子上的裂痕|
