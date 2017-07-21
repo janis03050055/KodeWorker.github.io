@@ -130,6 +130,17 @@ tags:
 > 『這是我交付給你的最後一項任務，永續的任務。在這個世界上，要表現快樂、感到快樂，不需要任何理由。接著你就能去愛，去做你想做的事。』 - 深夜加油站遇見蘇格拉底
 
 接下來的任務就是盡可能的快樂，讓閱讀網誌的人快樂，就是持之以恆的紀錄研究與生活的點滴，並且慢慢將這個網頁客製成心目中理想的型態。
-首先使改變內文字體大小，預設的真的大得有點誇張，所以修改`/_sass/_pages.scss`底下尋找到`.page__content`並且設定物件內`p`的屬性`font-size: 12px`。
-接著是網站標題稍微有點小，解決方法是到`/_sass/_mashthread.scss`內設定`.site-title`的`font-size: 2em;`。
+
+- 2017-07-12
+    - 改變內文字體大小，預設的真的大得有點誇張，所以修改`/_sass/minimal-mistakes/_pages.scss`底下尋找到`.page__content`並且設定物件內`p`的屬性`font-size: 12px`。
+    - 網站標題稍微有點小，解決方法是到`/_sass/minimal-mistakes/_mashthread.scss`內設定`.site-title`的`font-size: 2em;`。
 學習是永無止盡的，哪天我把minimal-mistakes摸熟了，再來分享一些客製化的心得吧。
+
+- 2017-07-21
+    - jekyll rouge 支援多種語言 highlight，但是整篇code落落長看得人眼花，對過長的程式區段加入高度限制及捲軸。方法是直接到`/_sass/minimal-mistakes/_syntax.scss`內，在最外層加入以下程式碼。
+    {% highlight scss %}
+        .highlight {
+            max-height: 300px;
+            overflow-y: scroll;
+        }
+    {% endhighlight %}
