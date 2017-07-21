@@ -4,6 +4,8 @@
 
 div.highlighter-rouge,
 figure.highlight {
+  max-height: 300px;
+  overflow-y: auto;
   position: relative;
   margin-bottom: 1em;
   font-family: $monospace;
@@ -28,8 +30,6 @@ figure.highlight {
   }
 
   .highlight {
-    max-height: 300px;
-    overflow-y: scroll;
     margin: 0;
     padding: 1em;
   }
