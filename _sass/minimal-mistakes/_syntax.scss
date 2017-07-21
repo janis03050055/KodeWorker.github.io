@@ -58,12 +58,13 @@ figure.highlight {
   }
 }
 
-.highlight pre {
-    width: 100%; }
+//.highlight pre {
+//    width: 100%; }
 
 .highlight {
     max-height: 300px;
     overflow-y: scroll;
+    width: 100%;
 }
 
 /*
