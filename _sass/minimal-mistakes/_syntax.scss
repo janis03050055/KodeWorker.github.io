@@ -53,18 +53,17 @@ figure.highlight {
     }
   }
 
-//  pre {
-//    margin: 0;
-//  }
+  pre {
+    margin: 0;
+  }
 }
 
-//.highlight pre {
-//    width: 100%; }
+.highlight pre {
+    width: 100%; }
 
-.highlight {
+pre.highlight {
     max-height: 300px;
     overflow-y: scroll;
-    //width: 100%;
 }
 
 /*
