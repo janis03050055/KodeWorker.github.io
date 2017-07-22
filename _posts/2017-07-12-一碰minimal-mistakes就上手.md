@@ -132,8 +132,10 @@ tags:
 接下來的任務就是盡可能的快樂，讓閱讀網誌的人快樂，就是持之以恆的紀錄研究與生活的點滴，並且慢慢將這個網頁客製成心目中理想的型態。
 
 - **[2017-07-12]** 改變內文字體大小，預設的真的大得有點誇張，所以修改`/_sass/minimal-mistakes/_pages.scss`底下尋找到`.page__content`並且設定物件內`p`的屬性`font-size: 12px`。
+
 - **[2017-07-12]** 網站標題稍微有點小，解決方法是到`/_sass/minimal-mistakes/_mashthread.scss`內設定`.site-title`的`font-size: 2em;`。
 學習是永無止盡的，哪天我把minimal-mistakes摸熟了，再來分享一些客製化的心得吧。
+
 - **[2017-07-21]** jekyll rouge 支援多種語言 highlight，但是整篇code落落長看得人眼花，對過長的程式區段加入高度限制及捲軸。方法是直接到`/_sass/minimal-mistakes/_syntax.scss`內，在最外層加入以下程式碼。
 {% highlight scss %}
     .highlight {
@@ -141,3 +143,5 @@ tags:
         overflow-y: scroll;
     }
 {% endhighlight %}
+
+- **[2017-07-22]** 在讀取頁面`archive`的標題大小，竟然比類別名稱還要大，為了改變這一個項目，修改`/_sass/minimal-mistakes/_archive.scss`內的設定。
