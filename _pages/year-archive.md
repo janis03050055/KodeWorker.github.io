@@ -5,14 +5,18 @@ title: "依年份編排"
 author_profile: true
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
+<section class="archive-post-list">
 
-{% for post in site.posts %}
-{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-{% if year != written_year %}
-<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-{% capture written_year %}{{ year }}{% endcapture %}
-{% endif %}
-{% include archive-single.html %}
-{% endfor %}
+   {% for post in site.posts %}
+       {% assign currentDate = post.date | date: "%Y" %}
+       {% if currentDate != myDate %}
+           {% unless forloop.first %}</ul>{% endunless %}
+           <h1>{{ currentDate }}</h1>
+           <ul>
+           {% assign myDate = currentDate %}
+       {% endif %}
+       <li><a href="{{ post.url }}"><span>{{ post.date | date: "%B %-d, %Y" }}</span> - {{ post.title }}</a></li>
+       {% if forloop.last %}</ul>{% endif %}
+   {% endfor %}
+
+</section>
