@@ -5,13 +5,20 @@ title: "依類別編排"
 author_profile: true
 ---
 
-{% include base_path %}
-{% include group-by-array collection=site.posts field="categories" %}
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
 
-{% for category in group_names %}
-{% assign posts = group_items[forloop.index0] %}
-<h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-{% for post in posts %}
-{% include archive-single.html %}
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
 {% endfor %}
-{% endfor %}
+</div>

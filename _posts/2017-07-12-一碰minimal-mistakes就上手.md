@@ -131,6 +131,8 @@ tags:
 
 接下來的任務就是盡可能的快樂，讓閱讀網誌的人快樂，就是持之以恆的紀錄研究與生活的點滴，並且慢慢將這個網頁客製成心目中理想的型態。
 
+## 更新紀錄
+
 - **[2017-07-12]** 改變內文字體大小，預設的真的大得有點誇張，所以修改`/_sass/minimal-mistakes/_pages.scss`底下尋找到`.page__content`並且設定物件內`p`的屬性`font-size: 12px`。
 
 - **[2017-07-12]** 網站標題稍微有點小，解決方法是到`/_sass/minimal-mistakes/_mashthread.scss`內設定`.site-title`的`font-size: 2em;`。
@@ -145,3 +147,5 @@ tags:
 {% endhighlight %}
 
 - **[2017-07-22]** 在讀取頁面`archive`的標題大小，竟然比類別名稱還要大，為了改變這一個項目，修改`/_sass/minimal-mistakes/_archive.scss`內的設定。
+
+- **[2017-07-22]** `/_pages/year-archive.md`原本頁面一直很不親民，看到了一篇[文章](http://chris.house/blog/building-a-simple-archive-page-with-jekyll/)介紹之後驚為天人，其他`archive`類型頁面也應該可以整理程較簡潔的格式，[catagory-archive範例](https://blog.webjeda.com/jekyll-categories/)。
