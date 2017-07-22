@@ -11,7 +11,7 @@ author_profile: true
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
-    {% unless forloop.first %}</ul>{% endunless %}
+
     <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     <ul>
@@ -21,7 +21,7 @@ author_profile: true
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
-    {% if forloop.last %}</ul>{% endif %}
+    </ul>
   </div>
 {% endfor %}
 </div>
