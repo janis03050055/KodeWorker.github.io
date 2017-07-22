@@ -359,8 +359,8 @@ zh-SG:
 # Taiwan (Traditional Chinese)
 zh-TW:
   page                       : "頁面"
-  pagination_previous        : "較舊"
-  pagination_next            : "較新"
+  pagination_previous        : "前一頁" # meaning fixed
+  pagination_next            : "下一頁" # meaning fixed
   breadcrumb_home_label      : "首頁"
   breadcrumb_separator       : "/"
   menu_label                 : "切換選單"
@@ -395,6 +395,8 @@ zh-TW:
   comment_success_msg        : "感謝您的留言！ 審核後將會顯示在站上。"
   comment_error_msg          : "抱歉，部份資料輸入有問題。請確認資料填寫正確後再試一次。"
   loading_label              : "載入中..."
+  # custom label
+  working_projects           : "執行計畫"
 
 # German / Deutsch
 # -----------------
@@ -708,7 +710,7 @@ sv-SE:
   <<: *DEFAULT_SV
 sv-FI:
   <<: *DEFAULT_SV
- 
+
 # Dutch
 # -----------------
 nl: &DEFAULT_NL

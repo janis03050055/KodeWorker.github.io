@@ -2,6 +2,9 @@
 layout: archive
 ---
 
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].working_projects | default: "Working Projects" }}</h3>
+{% post_url 2017-07-20-科幻小說鍊成計畫 %}
+
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% for post in paginator.posts %}
