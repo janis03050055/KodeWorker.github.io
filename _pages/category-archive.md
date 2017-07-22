@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /categories/
+permalink: /category-archive/
 title: "依類別編排"
 author_profile: true
 ---
@@ -11,8 +11,9 @@ author_profile: true
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
-
+    <ul>
     <h3 class="category-head">{{ category_name }}</h3>
+    <li>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
