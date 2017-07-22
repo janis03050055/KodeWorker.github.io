@@ -15,8 +15,9 @@ author_profile: true
     <a name="{{ category_name | slugize }}"></a>
     <ul>
     {% for post in site.categories[category_name] %}
+    <li>
     <article class="archive-item">
-      <li><h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
   </div>
