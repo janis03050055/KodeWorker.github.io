@@ -20,6 +20,7 @@ author_profile: true
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
+    </ul>
   </div>
 {% endfor %}
 </div>
