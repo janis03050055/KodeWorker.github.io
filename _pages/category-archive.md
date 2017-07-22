@@ -10,7 +10,8 @@ author_profile: true
   <div class="archive-group">
     {% capture category_name %}{{ category | first }}{% endcapture %}
     <div id="#{{ category_name | slugize }}"></div>
-    <p></p>    
+    <p></p>
+    {% if forloop.last %}</ul>{% endif %}
     <h3 class="category-head">{{ category_name }}</h3>
     <a name="{{ category_name | slugize }}"></a>
     <ul>
@@ -20,7 +21,7 @@ author_profile: true
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
-    </ul>
+    {% if forloop.last %}</ul>{% endif %}
   </div>
 {% endfor %}
 </div>
