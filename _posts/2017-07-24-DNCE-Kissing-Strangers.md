@@ -2,11 +2,12 @@
 layout: single
 title: DNCE - Kissing Strangers
 date: 2017-07-24 09:51:41
-excerpt:
+excerpt: DNCE併Nicki，蹦出新滋味！
 categories:
 - 認真音樂賞析
 tags:
 - DNCE
+- Kissing Strangers
 - dance-rock
 - 中譯歌詞
 ---
