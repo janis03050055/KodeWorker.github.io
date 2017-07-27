@@ -10,7 +10,7 @@ main:
     url: /about/
 
 sidebar-nav:
-  - title: 快速導覽
+  - title: 執行計畫
     children:
     - title: "test"
       url:
