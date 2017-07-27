@@ -8,3 +8,18 @@ main:
     url: /works/
   - title: "關於"
     url: /about/
+
+sidebar:
+  - title: 快速導覽
+    children:
+    - title: "測試"
+      url:
+    - title: "測試"
+      url:
+
+  - title:  最新文章
+    children:
+    - title: "測試"
+      url:
+    - title: "測試"
+      url:
