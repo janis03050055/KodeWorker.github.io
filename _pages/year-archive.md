@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "依年份編排"
+title: "年表"
 author_profile: true
 ---
 

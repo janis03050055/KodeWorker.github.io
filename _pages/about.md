@@ -1,5 +1,5 @@
 ---
-title: "關於"
+title: "關於我"
 layout: single
 excerpt: "關於我的大小事"
 sitemap: true

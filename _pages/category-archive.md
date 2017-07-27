@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /category-archive/
-title: "依類別編排"
+title: "類別"
 author_profile: true
 ---
 

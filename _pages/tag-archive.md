@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /tags/
-title: "依標籤編排"
+title: "標籤"
 author_profile: true
 ---
 
