@@ -31,11 +31,13 @@
           <!-- quick navigation -->
           <h3>最新文章</h3>
           {% for post in paginator.posts %}
+            <div>
             {% if post.link %}
-              <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+              <h5><a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | absolute_url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a></h5>
             {% else %}
-              <a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a>
+              <h5><a href="{{ post.url | absolute_url }}" rel="permalink">{{ title }}</a></h5>
             {% endif %}
+            </div>
           {% endfor %}
       </div>
   </div>
