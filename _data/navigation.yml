@@ -8,14 +8,3 @@ main:
     url: /works/
   - title: "關於"
     url: /about/
-
-sidebar-nav:
-  - title: 執行計畫
-    children:
-    - title: "test"
-      url:
-
-  - title:  最新文章
-    children:
-    - title: "TEST"
-      url:
