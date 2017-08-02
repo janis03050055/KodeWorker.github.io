@@ -23,7 +23,7 @@ tags:
 
 什麼是GA?網站主機的log紀錄會與GA上面的數據有落差，原因是在於web tracking流量trigger的機制有所不同。
 
-Tracking Services:
+**Tracking Services**:
 - Google Analytics - .js embeded
 - Omniture - .js embeded
 - Amazon Alexa - backdoor? biased(w/ donation)
@@ -31,7 +31,6 @@ Tracking Services:
 GA是利用第一方的瀏覽器Cookie，也支援第三方Cookie，所以較不容易被擋下。
 Cookie的時效是利用last visit time + 2 years，來判斷unique users。
 Cookie的建立是利用 GA + "**DOMAIN NAME**"，來建立獨立拜訪者的獨特性，對於大型的網站而言，對於跨網域追蹤時，是滿重要維護的概念。
-
 實務上應用，可能會有多個GA同時監控一個網站(因為監控的利害關係人不同，或監控的目標群體不同)，但是沒有做額外的設定，可能會導致資料遺失。)
 
 基本tracking code:
@@ -42,9 +41,7 @@ GA tacker 應用情境：
 - Multiple GA case: unique name for each tracker
 - 虛擬page name應用：長頁面為了監控特地區段瀏覽、tab切換時event處發起瀏覽事件、light box(j三小?啊就只是個網頁物件，講這樣有比較猛？)、實體檔案名稱太複雜看報表不知道在搞什麼。
 
-
 ## 動動手、洞洞腦
-
 GA帳號可以整合同一個Property下的Cookie，讓salse賤人們可以利用Cookie來針對目標客群，投遞特定產品促銷。
 匯出匯入報表也較方便，但是UA檔不要亂開呀！！！？
 老師說亂開UA檔案可是會有毀滅(你的網站)世界的可能！
@@ -53,7 +50,7 @@ GA帳號可以整合同一個Property下的Cookie，讓salse賤人們可以利�
 
 所以針對預測進站人次，進行針對性的行銷。
 
-GA控管階層：
+**GA控管階層**：
 - Account - Property - View
 - 控管用帳號 - 不同主題網站(unique UA code) - 針對對應網站目標頁面進行監控
 - property and view number limitations?
@@ -62,8 +59,7 @@ GA控管階層：
 Cross-Domain的實際應用，公司內部的domain不同，導致會用到不同property + cross-domain這個情況，來處理local issue這種有點腦的問題。
 
 ## GA跨隆謀？
-
-網站商業目的與流程：
+**網站商業目的與流程**：
 1. 商業目的：一切都一附著商業目的
     - Awareness，跳出有點鬧的曝光型廣告、低品質
     - 導購，Campaign Site預購頁面監控)
@@ -72,7 +68,7 @@ Cross-Domain的實際應用，公司內部的domain不同，導致會用到不�
 
 工程師就是渣渣啦，一切都是依照商業目的走，看來是時候該發起魯宅革命了！
 
-拜訪來源：
+**拜訪來源**：
 - session: end of session will create a new session while landing a page (24:00 reset, time out, link source changed)
 - user: unique user by cookies(為因瀏覽器不同；或是兩年以後登入！)
 - difficulies: 特殊網路應用行業，人數大量行為不同，但是來源都相近。以加總人數來分析，無法明確知道來源。
@@ -80,7 +76,6 @@ Cross-Domain的實際應用，公司內部的domain不同，導致會用到不�
 其他幾個比較重要的數據方面，bounce rate對於現在很夯的長頁面單欄設計，不太能衡量網站標準，因為就一長條讀完就跳出了。
 這時候老師突然出了的bounce rate計算的考題？！叫我們計算何不直接開個wiki頁面就好了，頁面的bounce就只是landing後直接exit的情形。
 頁面的duration數值呈現上，較實際使用者時間短，由於GA是以下個頁面時間減去前一個瀏覽時間差作為duration。
-
 說到最終，一切都是由萬惡的KPI來決定成效。
 
 > 就是靠嘴啦！跟我無關！
@@ -89,7 +84,7 @@ Cross-Domain的實際應用，公司內部的domain不同，導致會用到不�
 找重點頁面才是網站分析的點目標，這時候老師舉了一個很好的活動入口網頁的分析，intro流失率 -> 首頁引導流量(button event) -> 後續導入資訊。
 
 ## 四大報表
-主要用這四個報表來分析網站的流量。
+**主要用這四個報表來分析網站的流量**：
 1. Audience: 來訪者輪廓(用Cookie去推估使用者行為)、硬體設備、黏性。
 2. Acquisition: 拜訪者來源
 3. Behavior: 回訪、瀏覽深度
@@ -111,7 +106,7 @@ Generated URL有雙問號，要把第二個改成`&`；另一個是URL的`#`出�
 有關於戰鬥民族進入部落格的情況，在中午休息時間問了一下老師，他說可以利用Admin -> Property -> Tracking Info 來排除調特定網域的來源。
 這下有趣的事情出現了，這位俄羅斯老兄的網域名稱是`ḷ.com`，這...根本是不合法的網域名稱。
 這年頭戰鬥民族真的越來越厲害了，連網域都能改的面目全非，這樣只能利用filter來設定rule了。
-但是老師說他自己也沒有用過，感覺位子坐得越高，最於技術細節應該越不care、只關注專案重要營運，這也是人之常情。
+但是老師說他自己也沒有用過，感覺位子坐得越高，最於技術細節應該越不care、只關注專案重要營運也是人之常情。
 
 ## 小結
 其實我最想要聽的，阻止怪咖進入我的網站的辦法，可惜要自己去摸索了，不過至少上完課大概知道要從什麼地方開始著手。
