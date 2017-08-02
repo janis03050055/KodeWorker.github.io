@@ -33,7 +33,6 @@ tags:
 
 影片中的主角二人組，就是片名上的Tucker、Dale，兩個不善言詞但是心地善良的鄉巴佬，剛在湖邊置產了一間小木屋打算裝修成度假釣魚的小屋。好死不死一群大學生正好要來露營，一開始就懷疑這兩個鄉巴佬意圖不軌，接著離奇又爆笑的就是大學生一個一個慘死，都是死在低能的意外，就連來調查的警長都死在之前裝修小屋時埋的意外梗上。然而真正的大轉折，是片名中所指的EVIL竟然是被害妄想症男大生。從影片一開始他就是一個自以為是想當領頭的小隊長Chad，極力抹黑善良的Tucker、Dale，最後才發現他是二十幾年前強姦殺人犯留下的小孽種，Yeeeeeeeeeeee~一整個轉折的超幹笑的。
 
-
 <p style="text-align: center;">Tucker因為捅到蜜蜂窩，拿著電鋸狂奔，而這個恍神男大生慌忙中竟然自己奔向一跟尖木樁...FIRST BLOOD！</p>
 
 ![狂奔向樹幹](/assets/images/album/電影賞析-Tucker-and-Dale-vs-Evil/TnDvE_k1.jpg){: .align-center}
@@ -69,7 +68,6 @@ tags:
 <p style="text-align: center;">小隊長的真正老爸抵佳。</p>
 
 ![舊報紙](/assets/images/album/電影賞析-Tucker-and-Dale-vs-Evil/TnDvE_6.jpg){: .align-center}
-
 
 <p style="text-align: center;">最後甘菊茶竟然救了他們一命！</p>
 
