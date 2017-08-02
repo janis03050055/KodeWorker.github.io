@@ -20,24 +20,24 @@ tags:
 本渣渣工程師完全沒用過Google Analytics，看到中心竟然有請業界來教學，免費又能去爽吃零食，當然要去互相傷害一發(講師真的這樣講，一個鬧)。
 
 ## 課程總覽
-
-什麼是GA?網站主機的log紀錄會與GA上面的數據有落差，原因是在於web tracking流量trigger的機制有所不同。
+什麼是GA？謂何網站主機的log紀錄，或是其他分析服務會與GA上面的數據有落差？
+原因是在於web tracking流量，根據不同服務的設計trigger的機制有所不同，導致數據上會有差異，以下有介紹幾個常用的服務。
 
 **Tracking Services**:
 - Google Analytics - .js embeded
 - Omniture - .js embeded
-- Amazon Alexa - backdoor? biased(w/ donation)
+- Amazon Alexa - backdoor?老師用的這個字眼充滿攻擊性。 biased(w/ donation)
 
-GA是利用第一方的瀏覽器Cookie，也支援第三方Cookie，所以較不容易被擋下。
-Cookie的時效是利用last visit time + 2 years，來判斷unique users。
+而本次課程主講的GA是利用第一方的瀏覽器Cookie，也支援第三方Cookie，所以較不容易被擋下。
+Cookie的時效是利用last visit time + 2 years，來判斷unique users，所以你兩年內沒登入頁面幾就被判讀成新的人類囉。
 Cookie的建立是利用 GA + "**DOMAIN NAME**"，來建立獨立拜訪者的獨特性，對於大型的網站而言，對於跨網域追蹤時，是滿重要維護的概念。
 實務上應用，可能會有多個GA同時監控一個網站(因為監控的利害關係人不同，或監控的目標群體不同)，但是沒有做額外的設定，可能會導致資料遺失。)
 
-基本tracking code:
+**基本tracking code**:
 - Page View: 主要關注瀏覽者，瀏覽到網頁的特定位置，發出ga訊號進行監控。
 - Event: track event例如網頁上的物件觸發，以前Flash物件還活著的時候會用來監控影片觸發(時代的眼淚，Youtube應該算是終結Flash Player的劊子手)，命名建議以英數為主。
 
-GA tacker 應用情境：
+**GA tacker 應用情境**：
 - Multiple GA case: unique name for each tracker
 - 虛擬page name應用：長頁面為了監控特地區段瀏覽、tab切換時event處發起瀏覽事件、light box(j三小?啊就只是個網頁物件，講這樣有比較猛？)、實體檔案名稱太複雜看報表不知道在搞什麼。
 
@@ -51,12 +51,13 @@ GA帳號可以整合同一個Property下的Cookie，讓salse賤人們可以利�
 所以針對預測進站人次，進行針對性的行銷。
 
 **GA控管階層**：
-- Account - Property - View
-- 控管用帳號 - 不同主題網站(unique UA code) - 針對對應網站目標頁面進行監控
-- property and view number limitations?
+- Account: 控管用帳號
+- Property: 不同主題網站(unique UA code)
+- View: 針對對應網站目標頁面進行監控
+- property and view number limitations?應該是要靠付費提昇數量囉。
 
 利用view的filter來限制連線目錄，但是當下老師不建議我們自行設定Filter，可能會影響到分析數據的完整性。
-Cross-Domain的實際應用，公司內部的domain不同，導致會用到不同property + cross-domain這個情況，來處理local issue這種有點腦的問題。
+提到Cross-Domain的時候，我還滿好奇在實際應用上，公司內部的domain竟然也會用到不同的domain name，導致會用到不同property + cross-domain這個情況，來處理類似local issue這種有點腦的問題。
 
 ## GA跨隆謀？
 **網站商業目的與流程**：
