@@ -17,7 +17,7 @@ tags:
 看到之前痞客邦裡面的後台管理界面，紀錄著每天來看我這個邊緣人自言自語的人數，看著人數不斷的成長到一支手數不完，其實還有點小興奮呢！
 可是有趣的是，突然有一天在觀察網站流量的時候，突然有來自戰鬥民族的問候，是從Samara Oblast連線過來，連線服務是jsc er-telecom holding samara branch。
 經過網路上稍微咕狗一下發現，這個竟然是一個洗流量的駭客程式，網路上有一堆很妙的的人使用一些方式避免錯誤的流量分析。
-本渣渣工程師完全沒用過Google Analytics，看到中心竟然有請業界來教學，免費又能去爽吃零食，當然要去互相傷害一發(講師真的這樣講，一個鬧)。
+本渣渣工程師完全沒用過Google Analytics，看到中心竟然有請業界來教學，免費又能去爽吃零食，當然要去互相傷害一發(講師真的這樣說...)。
 
 ## 課程總覽
 什麼是GA？謂何網站主機的log紀錄，或是其他分析服務會與GA上面的數據有落差？
@@ -26,7 +26,7 @@ tags:
 **Tracking Services**:
 - Google Analytics - .js embeded
 - Omniture - .js embeded
-- Amazon Alexa - backdoor? biased(w/ donation) 老師用的這個字眼有點攻擊性。 
+- Amazon Alexa - backdoor? biased(w/ donation) 老師用的這個字眼有點攻擊性。
 
 而本次課程主講的GA是利用第一方的瀏覽器Cookie，也支援第三方Cookie，所以較不容易被擋下。
 Cookie的時效是利用last visit time + 2 years，來判斷unique users，所以你兩年內沒登入頁面幾就被判讀成新的人類囉。
