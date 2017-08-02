@@ -39,7 +39,7 @@ Cookie的建立是利用 GA + "**DOMAIN NAME**"，來建立獨立拜訪者的獨
 
 **GA tacker 應用情境**：
 - Multiple GA case: unique name for each tracker
-- 虛擬page name應用：長頁面為了監控特地區段瀏覽、tab切換時event處發起瀏覽事件、light box(j三小?啊就只是個網頁物件，講這樣有比較猛？)、實體檔案名稱太複雜看報表不知道在搞什麼。
+- 虛擬page name應用：長頁面為了監控特地區段瀏覽、tab切換時event觸發起瀏覽事件、light box(就只是個網頁物件)、實體檔案名稱太複雜看報表不知道在搞什麼。
 
 ## 動動手、洞洞腦
 GA帳號可以整合同一個Property下的Cookie，讓salse賤人們可以利用Cookie來針對目標客群，投遞特定產品促銷。
