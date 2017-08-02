@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Google Analytics大亂鬥
+title: Google Analytics 大亂鬥
 date: 2017-08-02 15:13:34
 excerpt: 分析網站流量，邁向百萬網紅的第一步。
 categories:
@@ -63,11 +63,9 @@ GA帳號可以整合同一個Property下的Cookie，讓salse賤人們可以利�
 **網站商業目的與流程**：
 1. 商業目的：一切都一附著商業目的
     - Awareness，跳出有點鬧的曝光型廣告、低品質
-    - 導購，Campaign Site預購頁面監控)
+    - 導購，Campaign Site預購頁面監控
 2. 網站規劃
 3. 網站開發
-
-工程師就是渣渣啦，一切都是依照商業目的走，看來是時候該發起魯宅革命了！
 
 **拜訪來源**：
 - session: end of session will create a new session while landing a page (24:00 reset, time out, link source changed)
@@ -79,7 +77,7 @@ GA帳號可以整合同一個Property下的Cookie，讓salse賤人們可以利�
 頁面的duration數值呈現上，較實際使用者時間短，由於GA是以下個頁面時間減去前一個瀏覽時間差作為duration。
 說到最終，一切都是由萬惡的KPI來決定成效。
 
-> 就是靠嘴啦！跟我無關！
+> 就是靠嘴囉！跟我無關！
 
 監控page view在何種頁面情境下點擊預購，監控event來收集點擊來源，以此來規劃網頁的責任歸屬。
 找重點頁面才是網站分析的點目標，這時候老師舉了一個很好的活動入口網頁的分析，intro流失率 -> 首頁引導流量(button event) -> 後續導入資訊。
@@ -110,5 +108,5 @@ Generated URL有雙問號，要把第二個改成`&`；另一個是URL的`#`出�
 但是老師說他自己也沒有用過，感覺位子坐得越高，最於技術細節應該越不care、只關注專案重要營運也是人之常情。
 
 ## 小結
-其實我最想要聽的，阻止怪咖進入我的網站的辦法，可惜要自己去摸索了，不過至少上完課大概知道要從什麼地方開始著手。
+其實我最想要聽的，是如何阻止怪咖的登入流量引響我的網站數據，可惜要自己去摸索了，不過至少上完課大概知道要從什麼地方開始著手。
 不過課程大部份都跟salse比較相關，有點跟我這個只對技術有興趣的工程師而言，收穫算一般般。
