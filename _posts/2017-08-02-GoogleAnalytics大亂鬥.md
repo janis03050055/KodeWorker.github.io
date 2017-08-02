@@ -26,7 +26,7 @@ tags:
 **Tracking Services**:
 - Google Analytics - .js embeded
 - Omniture - .js embeded
-- Amazon Alexa - backdoor?老師用的這個字眼充滿攻擊性。 biased(w/ donation)
+- Amazon Alexa - backdoor? biased(w/ donation) 老師用的這個字眼有點攻擊性。 
 
 而本次課程主講的GA是利用第一方的瀏覽器Cookie，也支援第三方Cookie，所以較不容易被擋下。
 Cookie的時效是利用last visit time + 2 years，來判斷unique users，所以你兩年內沒登入頁面幾就被判讀成新的人類囉。
