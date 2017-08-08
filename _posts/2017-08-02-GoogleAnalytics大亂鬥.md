@@ -26,7 +26,7 @@ tags:
 **Tracking Services**:
 - Google Analytics - .js embeded
 - Omniture - .js embeded
-- Amazon Alexa - backdoor? biased(w/ donation) 老師用的這個字眼有點攻擊性。
+- Amazon Alexa - backdoor? biased(w/ donation)老師用的這個字眼有點攻擊性。
 
 而本次課程主講的GA是利用第一方的瀏覽器Cookie，也支援第三方Cookie，所以較不容易被擋下。
 Cookie的時效是利用last visit time + 2 years，來判斷unique users，所以你兩年內沒登入頁面幾就被判讀成新的人類囉。
@@ -34,7 +34,7 @@ Cookie的建立是利用 GA + "**DOMAIN NAME**"，來建立獨立拜訪者的獨
 實務上應用，可能會有多個GA同時監控一個網站(因為監控的利害關係人不同，或監控的目標群體不同)，但是沒有做額外的設定，可能會導致資料遺失。
 
 **基本tracking code**:
-- Page View: 主要關注瀏覽者，瀏覽到網頁的特定位置，發出ga訊號進行監控。
+- Page View: 主要關注瀏覽者，瀏覽到網頁的特定位置，發出GA訊號進行監控。
 - Event: track event例如網頁上的物件觸發，以前Flash物件還活著的時候會用來監控影片觸發(時代的眼淚，Youtube應該算是終結Flash Player的劊子手)，命名建議以英數為主。
 
 **GA tacker 應用情境**：
