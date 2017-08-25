@@ -149,3 +149,5 @@ tags:
 - **[2017-07-22]** 在讀取頁面`archive`的標題大小，竟然比類別名稱還要大，為了改變這一個項目，修改`/_sass/minimal-mistakes/_archive.scss`內的設定。
 
 - **[2017-07-22]** `/_pages/year-archive.md`原本頁面一直很不親民，看到了一篇[文章](http://chris.house/blog/building-a-simple-archive-page-with-jekyll/)介紹之後驚為天人，其他`archive`類型頁面也應該可以整理程較簡潔的格式，[catagory-archive範例](https://blog.webjeda.com/jekyll-categories/)。
+
+- **[2017-08-24]** 今天編輯網誌時發現一個很有趣的現象，顯示.jpg檔時有可能會方向錯誤，原因是檔案中遺失了方位的標記，詳見這個[StackOverflow頁面](https://stackoverflow.com/questions/19434073/how-can-i-avoid-that-github-rotates-my-jpg-in-my-readme-md)。最懶人的解決方法是，開啟圖像編輯軟體，然後往一邊旋轉90度四次(共360度)再儲存圖檔即可。
