@@ -10,6 +10,8 @@ tags:
 - 希特勒回來了
 - 吸特樂回來了
 - Er ist wieder da
+- 帖木兒·魏穆斯
+- Timur Vermes
 ---
 
 {% include toc title = "目錄" %}

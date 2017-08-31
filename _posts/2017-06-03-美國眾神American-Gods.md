@@ -8,6 +8,8 @@ categories:
 tags:
 - 美國眾神
 - American Gods
+- 尼爾·蓋曼
+- Neil Gaiman
 ---
 
 {% include toc title = "目錄" %}
