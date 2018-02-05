@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /category-archive/
+permalink: /categories/
 title: "類別"
 author_profile: true
 ---
