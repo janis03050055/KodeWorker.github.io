@@ -3,7 +3,7 @@ main:
   - title: "年表"
     url: /year-archive/
   - title: "類別"
-    url: /category-archive/
+    url: /categories/
   - title: "作品"
     url: /works/
   - title: "關於"
