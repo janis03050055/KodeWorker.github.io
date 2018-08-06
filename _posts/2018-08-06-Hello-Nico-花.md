@@ -26,14 +26,14 @@ tags:
 妳曾對我說過，我什麼時候最讓你感動，是在看電影時餵妳吃蛋捲的小動作。
 而最讓我感動的，是妳那份最單純助人的善良，或許你不自知。
 
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BlblBvpVgjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></iframe></p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/BlblBvpVgjE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
 那天，我傳了這首歌，想要請你原諒。
 但是妳已經害怕到不敢回應，不敢再與我分享情感...
 
 我決定放手，讓妳自己照顧好自己，而我也會等待我們都能成熟面對我們這段感情。
 
-參考網站：[官方Youtube影片](https://www.youtube.com/watch?v=BlblBvpVgjE&feature=share)
+參考網站：[官方網站](https://www.facebook.com/HelloNico.tw)
 
 |歌詞|
 |:-|
