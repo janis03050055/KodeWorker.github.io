@@ -22,7 +22,7 @@ header:
 - **Multi-Valued Neuron with Sigmoid Activation Function for Pattern Classification**, Shen-Fu Wu, Yu-Shu Chiou and Shie-Jue Lee, AIDM, 2014
 - **Employing local modeling in machine learning based methods for time-series prediction**, Shin-Fu Wu and Shie-Jue Lee, Expert Systems with Applications, vol. 42, issue 1, Jan. 2015
 - **工研院南創園區委託計畫：多變數時間序列預測模型**
-- **Essay: A Novel Forecasting Method for Time Series Data with Missing Values**
+- **Master Thesis: A Novel Forecasting Method for Time Series Data with Missing Values**
 
 ### 兵役 (2015.3 ~ 2016.2)
 - **防空飛彈指揮部623營營部連一等勤務兵**: 就是個打雜(草)小弟！
@@ -35,14 +35,17 @@ header:
 #### 中華精測 - 資深工程師 (2018.4 ~ )
 - **Cupper Plating FDC**: Monitoring machine status by its PLC and IOT signals.
 - **Production Time Estimation**: Estimate the production time by corresponding coefficients in run card.
-- **GUI Visualization**: Building windows softwares by PyQt5 in Python  
+- **GUI Visualization**: Building windows softwares by PyQt5 in Python.
+- **Motor PHM**: Building fault detection mechanism using motor current & vibration.
+- **Gerber Text Matching**: Transforming the text in a gerber file to vector signatures for text recognition.
+- **Circuit Auto-Routing**: Seeking inspiration from path-finding algorithms in game industry and computer graphics. Still in a long way to go!
 
 ## 專長
 ### 程式語言
 - **Python**: 工作後幾乎都在用Python，已經快變成我的母語了。
-- **C/C++**: 大學第一個程式語言、嵌入式系統也有用C寫過，研究所實作影像處理用C++，不過很久沒用了。
+- **C/C++**: 大學第一個程式語言、嵌入式系統也有用C寫過，研究所實作影像處理用C++，目前工作是將演算法轉移到FPGA上時用到。
 - **Matlab**: 整個研究所的研究成果都是用Matlab跑的，不過現在叫我做資料分析應該也是果斷跳槽用Python。
-- **Java**: 大學修演算法的時候用過，退化到幾乎不知道的程度。之後在工研院上課也有用到，加減學了一下。
+- **Java**: 大學修演算法的時候用過，退化到幾乎不知道的程度。之後在工研院上課也有用到，台大資工老師的課滿硬的，加減學了一下。
 
 ### 其他技能
 - **Git**:工作後開始遇到系統整合才有用到，不然我也沒有機會與Github邂逅。
